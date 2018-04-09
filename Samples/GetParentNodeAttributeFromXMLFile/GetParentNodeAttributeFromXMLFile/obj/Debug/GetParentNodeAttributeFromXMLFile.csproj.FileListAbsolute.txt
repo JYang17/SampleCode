@@ -1,0 +1,6 @@
+c:\users\jyang17\documents\visual studio 2013\Projects\GetParentNodeAttributeFromXMLFile\GetParentNodeAttributeFromXMLFile\bin\Debug\GetParentNodeAttributeFromXMLFile.exe.config
+c:\users\jyang17\documents\visual studio 2013\Projects\GetParentNodeAttributeFromXMLFile\GetParentNodeAttributeFromXMLFile\bin\Debug\GetParentNodeAttributeFromXMLFile.exe
+c:\users\jyang17\documents\visual studio 2013\Projects\GetParentNodeAttributeFromXMLFile\GetParentNodeAttributeFromXMLFile\bin\Debug\GetParentNodeAttributeFromXMLFile.pdb
+c:\users\jyang17\documents\visual studio 2013\Projects\GetParentNodeAttributeFromXMLFile\GetParentNodeAttributeFromXMLFile\obj\Debug\GetParentNodeAttributeFromXMLFile.csprojResolveAssemblyReference.cache
+c:\users\jyang17\documents\visual studio 2013\Projects\GetParentNodeAttributeFromXMLFile\GetParentNodeAttributeFromXMLFile\obj\Debug\GetParentNodeAttributeFromXMLFile.exe
+c:\users\jyang17\documents\visual studio 2013\Projects\GetParentNodeAttributeFromXMLFile\GetParentNodeAttributeFromXMLFile\obj\Debug\GetParentNodeAttributeFromXMLFile.pdb

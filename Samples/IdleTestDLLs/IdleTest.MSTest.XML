@@ -1,0 +1,234 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>IdleTest.MSTest</name>
+    </assembly>
+    <members>
+        <member name="T:IdleTest.MSTest.AssertCommon">
+            <summary>
+            (不应对此文件发生任何修改，应在AssertCommon_Editable.cs中添加或修改)
+            断言类，该类将不依赖于所使用的单元测试框架，可使用任何C#测试框架，只需实现IAssertInstance接口，
+            并调用RegisterInstance将实现的IAssertInstance接口类型注册即可
+            </summary>
+            <summary>
+            (对AssertCommon发生的修改应该在此文件中进行)
+            断言类，该类将不依赖于所使用的单元测试框架，可使用任何C#测试框架，只需实现IAssertInstance接口，
+            并调用RegisterInstance将实现的IAssertInstance接口类型注册即可
+            </summary>
+        </member>
+        <member name="M:IdleTest.MSTest.AssertCommon.ResetAssertInsance(IdleTest.IAssertInstance)">
+            <summary>
+            重新设置IAssertInstance实例或重置为置为默认实例（传空值或不传参数）
+            </summary>
+        </member>
+        <member name="M:IdleTest.MSTest.AssertCommon.AreEqual``1(``0,``0,System.Boolean)">
+            <summary>
+            断言使用相等运算符验证指定的两个泛型数据是否相等。
+            </summary>
+            <typeparam name="T">类型参数</typeparam>
+            <param name="expected">要比较的第一个泛型类型数据。 这是单元测试要求的泛型类型数据。</param>
+            <param name="actual">要比较的第二个泛型类型数据。 这是单元测试生成的泛型类型数据。</param>
+            <param name="areEqual">断言是否相等</param>
+        </member>
+        <member name="M:IdleTest.MSTest.AssertCommon.IsNull``1(System.Boolean,``0[])">
+            <summary>
+            断言为null
+            </summary>
+            <param name="actuals">需要断言的对象</param>
+            <param name="isNull">是否断言为空</param>
+        </member>
+        <member name="M:IdleTest.MSTest.AssertCommon.IsEmpty``1(``0,System.Boolean)">
+            <summary>
+            断言为空或null
+            </summary>
+            <typeparam name="T">类型参数</typeparam>
+            <param name="actual">实际值</param>
+            <param name="isEmpty">是否断言为空</param>
+        </member>
+        <member name="M:IdleTest.MSTest.AssertCommon.IsInstance(System.Type,System.Object[])">
+            <summary>
+            断言是否是某一类型
+            </summary>
+            <param name="expectedType">预期类型</param>
+            <param name="actuals">需要断言的对象</param>
+        </member>
+        <member name="M:IdleTest.MSTest.AssertCommon.IsBoolean(System.Boolean,System.Boolean[])">
+            <summary>
+            断言为true或false
+            </summary>
+            <param name="isTrue">是否为True</param>
+            <param name="actuals">断言的值</param>
+        </member>
+        <member name="M:IdleTest.MSTest.AssertCommon.ThrowException(System.Boolean,System.Action[])">
+            <summary>
+            断言调用一个函数是否抛出异常
+            </summary>
+            <param name="hasThrow">断言是否抛出异常</param>
+            <param name="actions">执行的函数集</param>        
+        </member>
+        <member name="M:IdleTest.MSTest.AssertCommon.AreEqual``1(``0,System.Boolean,``0[])">
+            <summary>
+            断言使用相等运算符验证指定的泛型集合数据是否与给定预期值相等。
+            </summary>
+            <typeparam name="T">类型参数</typeparam>
+            <param name="expected">要比较的第一个泛型类型数据。 这是单元测试要求的泛型类型数据。</param>
+            <param name="areEqual">断言是否相等</param>
+            <param name="actuals">要比较的第二个泛型类型数据集合。 这是单元测试生成的泛型类型数据。</param>
+        </member>
+        <member name="M:IdleTest.MSTest.AssertCommon.AreEqual``2(``1,``0[],System.Boolean,System.Func{``0,``1}[])">
+            <summary>
+            断言相等
+            </summary>
+            <typeparam name="TParameter">方法参数类型</typeparam>
+            <typeparam name="TReturn">方法返回类型</typeparam>
+            <param name="expected">预期值</param>
+            <param name="args">需断言的参数集</param>
+            <param name="areEqual">是否断言相等</param>
+            <param name="funcs">测试的方法集合</param>
+        </member>
+        <member name="M:IdleTest.MSTest.AssertCommon.AreEqual``3(``2,``0[],``1[],System.Boolean,System.Func{``0,``1,``2}[])">
+            <summary>
+            断言相等
+            </summary>
+            <typeparam name="TParameter1">方法参数类型1</typeparam>
+            <typeparam name="TParameter2">方法参数类型2</typeparam>
+            <typeparam name="TReturn">方法返回类型</typeparam>
+            <param name="expected">预期值</param>
+            <param name="args1">需断言的参数集1</param>
+            <param name="args2">需断言的参数集1</param>
+            <param name="areEqual">是否断言相等</param>
+            <param name="funcs">测试的方法集合</param>
+        </member>
+        <member name="M:IdleTest.MSTest.AssertCommon.IsNull``2(``0[],System.Boolean,System.Func{``0,``1}[])">
+            <summary>
+            断言为null
+            </summary>
+            <typeparam name="TParameter">方法参数类型</typeparam>
+            <typeparam name="TReturn">方法返回类型</typeparam>
+            <param name="action">调用的方法</param>
+            <param name="args">需断言的参数集</param>
+            <param name="funcs">测试的方法集合</param>
+            <param name="isNull">是否断言为空</param>
+        </member>
+        <member name="M:IdleTest.MSTest.AssertCommon.IsNull``3(``0[],``1[],System.Boolean,System.Func{``0,``1,``2}[])">
+            <summary>
+            断言为null
+            </summary>
+            <typeparam name="TParameter1">方法参数类型</typeparam>
+            <typeparam name="TParameter2">方法参数类型</typeparam>
+            <typeparam name="TReturn">方法返回类型</typeparam>
+            <param name="action">调用的方法</param>
+            <param name="args1">需断言的参数集</param>
+            <param name="args2">需断言的参数集</param>
+            <param name="isNull">是否断言为空</param>
+            <param name="funcs">测试的方法集合</param>
+        </member>
+        <member name="M:IdleTest.MSTest.AssertCommon.IsEmpty``2(``0[],System.Boolean,System.Func{``0,``1}[])">
+            <summary>
+            断言为Empty
+            </summary>
+            <typeparam name="TParameter">方法参数类型</typeparam>
+            <typeparam name="TReturn">方法返回类型</typeparam>
+            <param name="action">调用的方法</param>
+            <param name="args">需断言的参数集</param>
+            <param name="funcs">测试的方法集合</param>
+            <param name="assertNull">是否断言为空</param>
+        </member>
+        <member name="M:IdleTest.MSTest.AssertCommon.IsEmpty``3(``0[],``1[],System.Boolean,System.Func{``0,``1,``2}[])">
+            <summary>
+            断言为Empty
+            </summary>
+            <typeparam name="TParameter1">方法参数类型</typeparam>
+            <typeparam name="TReturn">方法返回类型</typeparam>
+            <param name="action">调用的方法</param>
+            <param name="args1">需断言的参数集</param>
+            <param name="funcs">测试的方法集合</param>
+            <param name="assertNull">是否断言为空</param>
+        </member>
+        <member name="M:IdleTest.MSTest.AssertCommon.IsBoolean``1(``0[],System.Boolean,System.Func{``0,System.Boolean}[])">
+            <summary>
+            断言为true或false
+            </summary>
+            <typeparam name="TParameter">参数类型</typeparam>
+            <param name="args">参数集</param>
+            <param name="isTrue">是否为True</param>
+            <param name="funcs">测试的方法集</param>
+        </member>
+        <member name="M:IdleTest.MSTest.AssertCommon.IsBoolean``2(``0[],``1[],System.Boolean,System.Func{``0,``1,System.Boolean}[])">
+            <summary>
+            断言为true或false
+            </summary>
+            <typeparam name="TParameter1">参数类型1</typeparam>
+            <typeparam name="TParameter2">参数类型2</typeparam>
+            <param name="args1">参数集1</param>
+            <param name="args2">参数集2</param>
+            <param name="isTrue">是否为True</param>
+            <param name="funcs">测试的方法集</param>
+        </member>
+        <member name="M:IdleTest.MSTest.AssertCommon.ThrowException``1(``0[],System.Boolean,System.Action{``0}[])">
+            <summary>
+            断言调用一个函数是否抛出异常
+            </summary>
+            <typeparam name="TParameter">参数类型</typeparam>
+            <param name="args">参数集</param>
+            <param name="hasThrow">断言是否抛出异常</param>
+            <param name="actions">测试的方法集</param>
+        </member>
+        <member name="M:IdleTest.MSTest.AssertCommon.ThrowException``2(``0[],``1[],System.Boolean,System.Action{``0,``1}[])">
+            <summary>
+            断言调用一个函数是否抛出异常
+            </summary>
+            <typeparam name="TParameter1">参数类型1</typeparam>
+            <typeparam name="TParameter2">参数类型2</typeparam>
+            <param name="args1">参数集1</param>
+            <param name="args2">参数集2</param>
+            <param name="hasThrow">是否抛出异常</param>
+            <param name="actions">测试的方法集</param>
+        </member>
+        <member name="M:IdleTest.MSTest.AssertCommon.AssertHandle``2(System.Action{``1},``0[],System.Func{``0,``1}[])">
+            <summary>
+            多个断言进行
+            </summary>
+            <typeparam name="TParameter">方法参数类型</typeparam>
+            <typeparam name="TReturn">方法返回类型</typeparam>
+            <param name="funcs">测试的方法集合</param>
+            <param name="assertAction">调用的断言方法</param>
+            <param name="args">需断言的参数集</param>
+        </member>
+        <member name="M:IdleTest.MSTest.AssertCommon.AssertHandle``3(System.Action{``2},``0[],``1[],System.Func{``0,``1,``2}[])">
+            <summary>
+            多个断言进行
+            </summary>
+            <typeparam name="TParameter1">方法参数类型1</typeparam>
+            <typeparam name="TParameter2">方法参数类型2</typeparam>
+            <typeparam name="TReturn">方法返回类型</typeparam>
+            <param name="funcs">测试的方法集合</param>
+            <param name="assertAction">调用的断言方法</param>
+            <param name="args1">需断言的参数集1</param>
+            <param name="args2">需断言的参数集1</param>
+        </member>
+        <member name="M:IdleTest.MSTest.AssertCommon.ForeachHandle``1(System.Array,System.Action{``0},System.Int32)">
+            <summary>
+            对数组执行简单遍历
+            </summary>
+            <typeparam name="T">数组类型</typeparam>
+            <param name="array">需要遍历的数组</param>
+            <param name="action">遍历每一项所需执行的委托</param>
+        </member>
+        <member name="M:IdleTest.MSTest.AssertCommon.ForeachHandle``2(``0[],``1[],System.Action{``0,``1})">
+            <summary>
+            对两个数组执行简单交叉遍历
+            </summary>
+            <typeparam name="T1">第一个数组类型</typeparam>
+            <param name="array1">需要遍历的第一个数组</param>
+            <typeparam name="T2">第二个数组类型</typeparam>
+            <param name="array2">需要遍历的第二个数组</param>
+            <param name="action">交叉遍历每一项所需执行的委托</param>
+        </member>
+        <member name="P:IdleTest.MSTest.AssertCommon.AssertInstance">
+            <summary>
+            获取或设置断言实例
+            </summary>
+        </member>
+    </members>
+</doc>

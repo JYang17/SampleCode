@@ -1,0 +1,6 @@
+C:\Users\JYang17\source\repos\TestAdoNet\TestAdoNet\bin\Debug\TestAdoNet.exe.config
+C:\Users\JYang17\source\repos\TestAdoNet\TestAdoNet\bin\Debug\TestAdoNet.exe
+C:\Users\JYang17\source\repos\TestAdoNet\TestAdoNet\bin\Debug\TestAdoNet.pdb
+C:\Users\JYang17\source\repos\TestAdoNet\TestAdoNet\obj\Debug\TestAdoNet.csproj.CoreCompileInputs.cache
+C:\Users\JYang17\source\repos\TestAdoNet\TestAdoNet\obj\Debug\TestAdoNet.exe
+C:\Users\JYang17\source\repos\TestAdoNet\TestAdoNet\obj\Debug\TestAdoNet.pdb

@@ -1,0 +1,7 @@
+C:\Users\JYang17\Documents\Visual Studio 2013\Projects\TokenGenerator\TokenGenerator\bin\Debug\TokenGenerator.dll
+C:\Users\JYang17\Documents\Visual Studio 2013\Projects\TokenGenerator\TokenGenerator\bin\Debug\TokenGenerator.pdb
+C:\Users\JYang17\Documents\Visual Studio 2013\Projects\TokenGenerator\TokenGenerator\obj\Debug\TokenGenerator.csprojResolveAssemblyReference.cache
+C:\Users\JYang17\Documents\Visual Studio 2013\Projects\TokenGenerator\TokenGenerator\obj\Debug\TokenGenerator.dll
+C:\Users\JYang17\Documents\Visual Studio 2013\Projects\TokenGenerator\TokenGenerator\obj\Debug\TokenGenerator.pdb
+C:\Users\JYang17\Documents\Bin\ModuleProfileTool\TokenGenerator.dll
+C:\Users\JYang17\Documents\Bin\ModuleProfileTool\TokenGenerator.pdb

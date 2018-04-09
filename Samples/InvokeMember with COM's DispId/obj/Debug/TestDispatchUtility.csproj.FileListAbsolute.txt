@@ -1,0 +1,8 @@
+C:\Users\JYang17\Documents\Visual Studio 2013\Projects\InvokeMember with COM's DispId\bin\Debug\TestDispatchUtility.xml
+C:\Users\JYang17\Documents\Visual Studio 2013\Projects\InvokeMember with COM's DispId\bin\Debug\TestDispatchUtility.exe
+C:\Users\JYang17\Documents\Visual Studio 2013\Projects\InvokeMember with COM's DispId\bin\Debug\TestDispatchUtility.pdb
+C:\Users\JYang17\Documents\Visual Studio 2013\Projects\InvokeMember with COM's DispId\bin\Debug\TestDispatchUtility.exe.CodeAnalysisLog.xml
+C:\Users\JYang17\Documents\Visual Studio 2013\Projects\InvokeMember with COM's DispId\bin\Debug\TestDispatchUtility.exe.lastcodeanalysissucceeded
+C:\Users\JYang17\Documents\Visual Studio 2013\Projects\InvokeMember with COM's DispId\obj\Debug\TestDispatchUtility.csprojResolveAssemblyReference.cache
+C:\Users\JYang17\Documents\Visual Studio 2013\Projects\InvokeMember with COM's DispId\obj\Debug\TestDispatchUtility.exe
+C:\Users\JYang17\Documents\Visual Studio 2013\Projects\InvokeMember with COM's DispId\obj\Debug\TestDispatchUtility.pdb

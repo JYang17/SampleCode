@@ -1,0 +1,22 @@
+﻿<Window x:Class="Wpf_validation.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <TextBox x:Name="UserName" Text="{Binding Name, ValidatesOnDataErrors=True, UpdateSourceTrigger=Explicit, Mode=TwoWay, NotifyOnValidationError=True}" 
+                 LostFocus="UserName_LostFocus"
+                 Grid.Row="1" Grid.Column="1" Margin="0,0,29,50"></TextBox>
+        <TextBox Grid.Row="2" Grid.Column="1"></TextBox>
+        <Button Content="禁用控件Tooltip演示" IsEnabled="False" ToolTip="禁用按钮" ToolTipService.ShowOnDisabled="True" />
+    </Grid>
+</Window>

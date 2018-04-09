@@ -1,0 +1,11 @@
+c:\Users\JYang17\documents\visual studio 2013\Projects\Wpf1\ResourcesForLocal\bin\Debug\ResourcesForLocal.dll
+c:\Users\JYang17\documents\visual studio 2013\Projects\Wpf1\ResourcesForLocal\bin\Debug\ResourcesForLocal.pdb
+c:\Users\JYang17\documents\visual studio 2013\Projects\Wpf1\ResourcesForLocal\obj\Debug\ResourcesForLocal.Resource1.resources
+c:\Users\JYang17\documents\visual studio 2013\Projects\Wpf1\ResourcesForLocal\obj\Debug\ResourcesForLocal.csproj.GenerateResource.Cache
+c:\Users\JYang17\documents\visual studio 2013\Projects\Wpf1\ResourcesForLocal\obj\Debug\ResourcesForLocal.dll
+c:\Users\JYang17\documents\visual studio 2013\Projects\Wpf1\ResourcesForLocal\obj\Debug\ResourcesForLocal.pdb
+c:\Users\JYang17\documents\visual studio 2013\Projects\Wpf1\ResourcesForLocal\obj\Debug\ResourcesForLocal.csprojResolveAssemblyReference.cache
+c:\Users\JYang17\documents\visual studio 2013\Projects\Wpf1\ResourcesForLocal\obj\Debug\Common Style\UserControl1.baml
+c:\Users\JYang17\documents\visual studio 2013\Projects\Wpf1\ResourcesForLocal\obj\Debug\Common Style\UserControl1.g.cs
+c:\Users\JYang17\documents\visual studio 2013\Projects\Wpf1\ResourcesForLocal\obj\Debug\ResourcesForLocal_MarkupCompile.cache
+c:\Users\JYang17\documents\visual studio 2013\Projects\Wpf1\ResourcesForLocal\obj\Debug\ResourcesForLocal.g.resources

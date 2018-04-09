@@ -1,0 +1,11 @@
+c:\users\jyang17\documents\visual studio 2013\Projects\MyFirstVSShellIsolated\MyFirstVSShellIsolated\ShellExtensionsVSIX\bin\Debug\extension.vsixmanifest
+c:\users\jyang17\documents\visual studio 2013\Projects\MyFirstVSShellIsolated\MyFirstVSShellIsolated\ShellExtensionsVSIX\bin\Debug\MyFirstVSShellIsolated.AboutBoxPackage.dll
+c:\users\jyang17\documents\visual studio 2013\Projects\MyFirstVSShellIsolated\MyFirstVSShellIsolated\ShellExtensionsVSIX\bin\Debug\MyFirstVSShellIsolated.AboutBoxPackage.pdb
+c:\users\jyang17\documents\visual studio 2013\Projects\MyFirstVSShellIsolated\MyFirstVSShellIsolated\ShellExtensionsVSIX\obj\Debug\ShellExtensionsVSIX.csprojResolveAssemblyReference.cache
+c:\users\jyang17\documents\visual studio 2013\Projects\MyFirstVSShellIsolated\MyFirstVSShellIsolated\ShellExtensionsVSIX\obj\Debug\ShellExtensionsVSIX.dll
+c:\users\jyang17\documents\visual studio 2013\Projects\MyFirstVSShellIsolated\MyFirstVSShellIsolated\ShellExtensionsVSIX\obj\Debug\ShellExtensionsVSIX.pdb
+c:\users\jyang17\documents\visual studio 2013\Projects\MyFirstVSShellIsolated\MyFirstVSShellIsolated\ShellExtensionsVSIX\obj\Debug\extension.vsixmanifest
+c:\users\jyang17\documents\visual studio 2013\Projects\MyFirstVSShellIsolated\MyFirstVSShellIsolated\ShellExtensionsVSIX\bin\Debug\MenuCommandsPackage.dll
+c:\users\jyang17\documents\visual studio 2013\Projects\MyFirstVSShellIsolated\MyFirstVSShellIsolated\ShellExtensionsVSIX\bin\Debug\MenuCommandsPackage.pdb
+C:\Users\JYang17\Documents\Visual Studio 2013\Projects\MyFirstVSShellIsolated\MyFirstVSShellIsolated\ShellExtensionsVSIX\bin\Debug\ShellEditorMargin.dll
+C:\Users\JYang17\Documents\Visual Studio 2013\Projects\MyFirstVSShellIsolated\MyFirstVSShellIsolated\ShellExtensionsVSIX\bin\Debug\ShellEditorMargin.pdb

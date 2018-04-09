@@ -1,0 +1,8 @@
+
+ 
+记录时间：2013-01-11 12:37:49,562 
+线程ID:[1] 
+日志级别：  ERROR 
+出错类：TestLog4Net.FormMain property: [(null)] - 
+错误描述：测试Log4Net日志是否写入
+ 

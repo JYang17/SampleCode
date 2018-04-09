@@ -1,0 +1,5 @@
+c:\Users\JYang17\documents\visual studio 2013\Projects\Wpf1\ClassLibraryForCommonWPF\obj\Debug\ClassLibraryForCommonWPF.csprojResolveAssemblyReference.cache
+c:\Users\JYang17\documents\visual studio 2013\Projects\Wpf1\ClassLibraryForCommonWPF\obj\Debug\Common\ResourceDictionaryForWPF.baml
+c:\Users\JYang17\documents\visual studio 2013\Projects\Wpf1\ClassLibraryForCommonWPF\obj\Debug\Common\ResourceDictionaryForWPF.g.cs
+c:\Users\JYang17\documents\visual studio 2013\Projects\Wpf1\ClassLibraryForCommonWPF\obj\Debug\ClassLibraryForCommonWPF_MarkupCompile.cache
+c:\Users\JYang17\documents\visual studio 2013\Projects\Wpf1\ClassLibraryForCommonWPF\obj\Debug\ClassLibraryForCommonWPF.g.resources

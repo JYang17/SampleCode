@@ -1,0 +1,11 @@
+C:\Users\JYang17\Desktop\self learning\MEF\improve performance\MEF_Example - Simple\MEF_Example\bin\Debug\Controls\ControlLibrary2.dll
+C:\Users\JYang17\Desktop\self learning\MEF\improve performance\MEF_Example - Simple\MEF_Example\bin\Debug\Controls\ControlLibrary2.pdb
+C:\Users\JYang17\Desktop\self learning\MEF\improve performance\MEF_Example - Simple\ControlLibrary2\obj\Debug\ControlLibrary2.csprojResolveAssemblyReference.cache
+C:\Users\JYang17\Desktop\self learning\MEF\improve performance\MEF_Example - Simple\ControlLibrary2\obj\Debug\YellowControl.baml
+C:\Users\JYang17\Desktop\self learning\MEF\improve performance\MEF_Example - Simple\ControlLibrary2\obj\Debug\YellowControl.g.cs
+C:\Users\JYang17\Desktop\self learning\MEF\improve performance\MEF_Example - Simple\ControlLibrary2\obj\Debug\ControlLibrary2_MarkupCompile.cache
+C:\Users\JYang17\Desktop\self learning\MEF\improve performance\MEF_Example - Simple\ControlLibrary2\obj\Debug\ControlLibrary2.g.resources
+C:\Users\JYang17\Desktop\self learning\MEF\improve performance\MEF_Example - Simple\ControlLibrary2\obj\Debug\ControlLibrary2.Properties.Resources.resources
+C:\Users\JYang17\Desktop\self learning\MEF\improve performance\MEF_Example - Simple\ControlLibrary2\obj\Debug\ControlLibrary2.csproj.GenerateResource.Cache
+C:\Users\JYang17\Desktop\self learning\MEF\improve performance\MEF_Example - Simple\ControlLibrary2\obj\Debug\ControlLibrary2.dll
+C:\Users\JYang17\Desktop\self learning\MEF\improve performance\MEF_Example - Simple\ControlLibrary2\obj\Debug\ControlLibrary2.pdb

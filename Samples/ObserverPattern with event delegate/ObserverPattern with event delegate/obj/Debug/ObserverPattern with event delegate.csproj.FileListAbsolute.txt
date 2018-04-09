@@ -1,0 +1,6 @@
+c:\users\jyang17\documents\visual studio 2013\Projects\ObserverPattern with event delegate\ObserverPattern with event delegate\bin\Debug\ObserverPattern with event delegate.exe.config
+c:\users\jyang17\documents\visual studio 2013\Projects\ObserverPattern with event delegate\ObserverPattern with event delegate\bin\Debug\ObserverPattern with event delegate.exe
+c:\users\jyang17\documents\visual studio 2013\Projects\ObserverPattern with event delegate\ObserverPattern with event delegate\bin\Debug\ObserverPattern with event delegate.pdb
+c:\users\jyang17\documents\visual studio 2013\Projects\ObserverPattern with event delegate\ObserverPattern with event delegate\obj\Debug\ObserverPattern with event delegate.csprojResolveAssemblyReference.cache
+c:\users\jyang17\documents\visual studio 2013\Projects\ObserverPattern with event delegate\ObserverPattern with event delegate\obj\Debug\ObserverPattern with event delegate.exe
+c:\users\jyang17\documents\visual studio 2013\Projects\ObserverPattern with event delegate\ObserverPattern with event delegate\obj\Debug\ObserverPattern with event delegate.pdb

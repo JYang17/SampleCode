@@ -1,0 +1,7 @@
+c:\users\jyang17\documents\visual studio 2013\Projects\VSShellHideDebugLocation\VSShellHideDebugLocation\ShellExtensionsVSIX\bin\Debug\extension.vsixmanifest
+c:\users\jyang17\documents\visual studio 2013\Projects\VSShellHideDebugLocation\VSShellHideDebugLocation\ShellExtensionsVSIX\bin\Debug\VSShellHideDebugLocation.AboutBoxPackage.dll
+c:\users\jyang17\documents\visual studio 2013\Projects\VSShellHideDebugLocation\VSShellHideDebugLocation\ShellExtensionsVSIX\bin\Debug\VSShellHideDebugLocation.AboutBoxPackage.pdb
+c:\users\jyang17\documents\visual studio 2013\Projects\VSShellHideDebugLocation\VSShellHideDebugLocation\ShellExtensionsVSIX\obj\Debug\ShellExtensionsVSIX.csprojResolveAssemblyReference.cache
+c:\users\jyang17\documents\visual studio 2013\Projects\VSShellHideDebugLocation\VSShellHideDebugLocation\ShellExtensionsVSIX\obj\Debug\ShellExtensionsVSIX.dll
+c:\users\jyang17\documents\visual studio 2013\Projects\VSShellHideDebugLocation\VSShellHideDebugLocation\ShellExtensionsVSIX\obj\Debug\ShellExtensionsVSIX.pdb
+c:\users\jyang17\documents\visual studio 2013\Projects\VSShellHideDebugLocation\VSShellHideDebugLocation\ShellExtensionsVSIX\obj\Debug\extension.vsixmanifest

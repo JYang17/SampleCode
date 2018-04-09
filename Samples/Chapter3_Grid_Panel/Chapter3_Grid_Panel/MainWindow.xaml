@@ -1,0 +1,17 @@
+﻿<Window x:Class="Chapter3_Grid_Panel.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid ShowGridLines="True">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+        </Grid.RowDefinitions>
+        <TextBox Margin="10" Grid.Row="0">This is a textbox</TextBox>
+        <StackPanel Grid.Row="1" HorizontalAlignment="Right" Orientation="Horizontal">
+            <Button Margin="10,10,2,10" Padding="3">OK</Button>
+            <Button Margin="10,10,2,10" Padding="3">Cancel</Button>
+        </StackPanel>
+        
+    </Grid>
+</Window>

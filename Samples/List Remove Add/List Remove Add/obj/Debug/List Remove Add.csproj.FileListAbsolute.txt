@@ -1,0 +1,5 @@
+C:\Users\JYang17\Documents\Visual Studio 2013\Projects\List Remove Add\List Remove Add\bin\Debug\List Remove Add.exe.config
+C:\Users\JYang17\Documents\Visual Studio 2013\Projects\List Remove Add\List Remove Add\bin\Debug\List Remove Add.exe
+C:\Users\JYang17\Documents\Visual Studio 2013\Projects\List Remove Add\List Remove Add\bin\Debug\List Remove Add.pdb
+C:\Users\JYang17\Documents\Visual Studio 2013\Projects\List Remove Add\List Remove Add\obj\Debug\List Remove Add.exe
+C:\Users\JYang17\Documents\Visual Studio 2013\Projects\List Remove Add\List Remove Add\obj\Debug\List Remove Add.pdb

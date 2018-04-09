@@ -1,0 +1,6 @@
+c:\users\jyang17\documents\visual studio 2013\Projects\XmlTextWriter_Demo3\XmlTextWriter_Demo3\bin\Debug\XmlTextWriter_Demo3.exe.config
+c:\users\jyang17\documents\visual studio 2013\Projects\XmlTextWriter_Demo3\XmlTextWriter_Demo3\bin\Debug\XmlTextWriter_Demo3.exe
+c:\users\jyang17\documents\visual studio 2013\Projects\XmlTextWriter_Demo3\XmlTextWriter_Demo3\bin\Debug\XmlTextWriter_Demo3.pdb
+c:\users\jyang17\documents\visual studio 2013\Projects\XmlTextWriter_Demo3\XmlTextWriter_Demo3\obj\Debug\XmlTextWriter_Demo3.csprojResolveAssemblyReference.cache
+c:\users\jyang17\documents\visual studio 2013\Projects\XmlTextWriter_Demo3\XmlTextWriter_Demo3\obj\Debug\XmlTextWriter_Demo3.exe
+c:\users\jyang17\documents\visual studio 2013\Projects\XmlTextWriter_Demo3\XmlTextWriter_Demo3\obj\Debug\XmlTextWriter_Demo3.pdb

@@ -1,0 +1,164 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>IdleTest</name>
+    </assembly>
+    <members>
+        <member name="M:JoeyLibs.UnitTest.Common.EntityParameter.#ctor">
+            <summary>
+            空构造函数以支持反序列化
+            </summary>
+        </member>
+        <member name="T:IdleTest.IAssertInstance">
+            <summary>
+            单元测试断言接口，用以实现测试框架的可替换性，当更换测试框架时，必须实现本接口，
+            然后修改AssertCommon类的DEFAULT_INSTANCE值为实现本接口的新类即可
+            </summary>
+        </member>
+        <member name="M:IdleTest.IAssertInstance.AreEqual``1(``0,``0,System.Boolean,System.Func{``0,``0,System.Boolean},System.String)">
+            <summary>
+            断言使用相等运算符验证指定的两个泛型数据是否相等。
+            </summary>
+            <typeparam name="T">类型参数</typeparam>
+            <param name="expected">要比较的第一个泛型类型数据。 这是单元测试要求的泛型类型数据。</param>
+            <param name="actual">要比较的第二个泛型类型数据。 这是单元测试生成的泛型类型数据。</param>
+            <param name="areEqual">断言是否相等</param>
+            <param name="compareFunc">用于判断两个复杂对象相等的委托</param>
+            <param name="message">断言失败的提示信息</param>
+        </member>
+        <member name="M:IdleTest.IAssertInstance.AreEqual(System.Collections.ICollection,System.Collections.ICollection,System.Collections.IComparer,System.Boolean,System.String)">
+            <summary>
+            断言两个集合数据是否相等。
+            </summary>
+            <param name="expected">要比较的第一个集合。 这是单元测试要求的集合数据。</param>
+            <param name="actual">要比较的第二个集合。 这是单元测试生成的集合数据。</param>
+            <param name="areEqual">断言是否相等</param>
+            <param name="comparer">用于比较两个集合的接口类型，使用系统提供的对比方式则传null</param>
+            <param name="message">断言失败的提示信息</param>
+        </member>
+        <member name="M:IdleTest.IAssertInstance.IsBoolean(System.Boolean,System.Boolean,System.String)">
+            <summary>
+            断言指定的值为true或false
+            </summary>
+            <param name="actual">实际结果值</param>
+            <param name="isTrue">是否为true</param>
+            <param name="message">断言失败的提示信息</param>
+        </member>
+        <member name="M:IdleTest.IAssertInstance.ThrowException(System.Action,System.Boolean,System.String)">
+            <summary>
+            断言调用一个函数是否抛出异常
+            </summary>
+            <param name="action">调用函数的无参数Action</param>
+            <param name="hasThrow">是否抛出异常</param>
+            <param name="message">断言失败的提示信息</param>
+        </member>
+        <member name="M:IdleTest.IAssertInstance.ThrowException``1(System.Action,System.Boolean,System.String)">
+            <summary>
+            断言调用一个函数抛出异常的类型
+            </summary>
+            <typeparam name="T">预期抛出的异常类型</typeparam>
+            <param name="action">调用函数的无参数Action</param>
+            <param name="hasThrow">是否抛出异常</param>
+            <param name="message">断言失败的提示信息</param>
+        </member>
+        <member name="M:IdleTest.IAssertInstance.IsNull``1(``0,System.Boolean,System.String)">
+            <summary>
+            断言为null
+            </summary>
+            <param name="actual">需要断言的对象</param>
+            <param name="isNull">是否断言为空</param>
+            <param name="message">断言失败的提示信息</param>
+        </member>
+        <member name="M:IdleTest.IAssertInstance.IsEmpty``1(``0,System.Boolean,System.String)">
+            <summary>
+            断言为空或null
+            </summary>
+            <typeparam name="T">类型参数</typeparam>
+            <param name="actual">实际值</param>
+            <param name="isEmpty">是否断言为空</param>
+            <param name="message">断言失败的提示信息</param>
+        </member>
+        <member name="M:IdleTest.IAssertInstance.IsInstance(System.Type,System.Object,System.Boolean,System.String)">
+            <summary>
+            断言是否是某一类型
+            </summary>
+            <param name="expectedType">预期类型</param>
+            <param name="actual">需要断言的对象</param>
+            <param name="isInstance">断言是否是expectedType类型</param>
+            <param name="message">断言失败的提示信息</param>
+        </member>
+        <member name="M:IdleTest.IAssertInstance.Fail(System.String)">
+            <summary>
+            断言失败
+            </summary>
+            <param name="message">断言失败的提示信息</param>
+        </member>
+        <member name="F:IdleTest.TestCommon.TestFilePath">
+            <summary>
+            测试程序的物理目录
+            </summary>
+        </member>
+        <member name="M:IdleTest.TestCommon.ArrayPlus``1(``0[],``0[])">
+            <summary>
+            将项添加到数组中
+            </summary>
+            <typeparam name="T">数组类型</typeparam>
+            <param name="array1">原数组</param>
+            <param name="array2">追加的数组</param>
+        </member>
+        <member name="M:IdleTest.TestCommon.ArrayEqual(System.Array,System.Array)">
+            <summary>
+            判断两个数组项相等（顺序必须一致）,对数组项使用"Equal方法"校验，
+            如果非CTS类型（即自定义），则应在使用本方法前对Equal方法进行重载
+            </summary>
+        </member>
+        <member name="M:IdleTest.TestCommon.ListEqual(System.Collections.IList,System.Collections.IList)">
+            <summary>
+            判断两个集合项相等（顺序必须一致）,对集合项使用"Equal方法"校验，
+            如果非CTS类型（即自定义），则应在使用本方法前对Equal方法进行重载
+            </summary>
+        </member>
+        <member name="M:IdleTest.TestCommon.CollectionEqual(System.Object,System.Object)">
+            <summary>
+            判断两个集合项相等（顺序必须一致）,对集合项使用"Equal方法"校验，
+            如果非CTS类型（即自定义），则应在使用本方法前对Equal方法进行重载
+            </summary>
+        </member>
+        <member name="M:IdleTest.TestCommon.CollectionCountEqual(System.Collections.ICollection,System.Collections.ICollection)">
+            <summary>
+            验证两个集合的长度是否一致
+            </summary>
+            <param name="collection1">要判断的集合1</param>
+            <param name="collection2">要判断的集合2</param>
+            <returns>长度相等（两个集合为null或者长度为0以及一个为null另一个长度为0均认为相等）
+            返回true，否则返回false</returns>
+        </member>
+        <member name="M:IdleTest.TestCommon.ForeachHandle``1(``0[],System.Action{``0})">
+            <summary>
+            对数组执行简单遍历
+            </summary>
+            <typeparam name="T">数组类型</typeparam>
+            <param name="array">需要遍历的数组</param>
+            <param name="action">遍历每一项所需执行的委托</param>
+        </member>
+        <member name="M:IdleTest.TestCommon.ForeachHandle``1(System.Array,System.Action{``0},System.Int32)">
+            <summary>
+            对多维数组执行简单遍历,仅支持多维可变数组，如int[]、int[][]、int[][][],不支持形如int[,]标准数组
+            </summary>
+            <typeparam name="T">最终执行的类型参数，如string[][][]则为string</typeparam>
+            <param name="array">需要遍历的数组</param>
+            <param name="action">遍历每一项所需执行的委托</param>
+            <param name="loopCount">循环嵌套数</param>
+        </member>
+        <member name="M:IdleTest.TestCommon.ForeachHandle``2(``0[],``1[],System.Action{``0,``1})">
+            <summary>
+            对两个数组执行简单交叉遍历
+            </summary>
+            <typeparam name="T1">第一个数组类型</typeparam>
+            <param name="array1">需要遍历的第一个数组</param>
+            <typeparam name="T2">第二个数组类型</typeparam>
+            <param name="array2">需要遍历的第二个数组</param>
+            <param name="action">交叉遍历每一项所需执行的委托</param>
+        </member>
+    </members>
+</doc>

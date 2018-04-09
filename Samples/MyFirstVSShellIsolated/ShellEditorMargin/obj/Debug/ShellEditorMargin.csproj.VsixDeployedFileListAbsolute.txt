@@ -1,0 +1,3 @@
+C:\Users\JYang17\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Microsoft\ShellEditorMargin\1.0\\ShellEditorMargin.dll
+C:\Users\JYang17\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Microsoft\ShellEditorMargin\1.0\\extension.vsixmanifest
+C:\Users\JYang17\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Microsoft\ShellEditorMargin\1.0\\ShellEditorMargin.pdb

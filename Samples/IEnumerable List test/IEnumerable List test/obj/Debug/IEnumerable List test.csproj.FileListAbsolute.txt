@@ -1,0 +1,6 @@
+c:\users\jyang17\documents\visual studio 2013\Projects\IEnumerable List test\IEnumerable List test\bin\Debug\IEnumerable List test.exe.config
+c:\users\jyang17\documents\visual studio 2013\Projects\IEnumerable List test\IEnumerable List test\bin\Debug\IEnumerable List test.exe
+c:\users\jyang17\documents\visual studio 2013\Projects\IEnumerable List test\IEnumerable List test\bin\Debug\IEnumerable List test.pdb
+c:\users\jyang17\documents\visual studio 2013\Projects\IEnumerable List test\IEnumerable List test\obj\Debug\IEnumerable List test.csprojResolveAssemblyReference.cache
+c:\users\jyang17\documents\visual studio 2013\Projects\IEnumerable List test\IEnumerable List test\obj\Debug\IEnumerable List test.exe
+c:\users\jyang17\documents\visual studio 2013\Projects\IEnumerable List test\IEnumerable List test\obj\Debug\IEnumerable List test.pdb

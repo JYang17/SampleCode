@@ -1,0 +1,17 @@
+C:\Users\JYang17\Bin\ModuleProfileTool\CustomControls.dll
+C:\Users\JYang17\Bin\ModuleProfileTool\CustomControls.pdb
+C:\Users\JYang17\Desktop\Task3\ModuleProfileEditTool\CustomControls\obj\Debug\ModuleProfileTool.CustomControls.csprojResolveAssemblyReference.cache
+C:\Users\JYang17\Desktop\Task3\ModuleProfileEditTool\CustomControls\obj\Debug\CustomAddLanguage.baml
+C:\Users\JYang17\Desktop\Task3\ModuleProfileEditTool\CustomControls\obj\Debug\CustomExpander.baml
+C:\Users\JYang17\Desktop\Task3\ModuleProfileEditTool\CustomControls\obj\Debug\CustomLanguageDisplay.baml
+C:\Users\JYang17\Desktop\Task3\ModuleProfileEditTool\CustomControls\obj\Debug\CustomAddLanguage.g.cs
+C:\Users\JYang17\Desktop\Task3\ModuleProfileEditTool\CustomControls\obj\Debug\CustomExpander.g.cs
+C:\Users\JYang17\Desktop\Task3\ModuleProfileEditTool\CustomControls\obj\Debug\CustomLanguageDisplay.g.cs
+C:\Users\JYang17\Desktop\Task3\ModuleProfileEditTool\CustomControls\obj\Debug\CustomControls_MarkupCompile.cache
+C:\Users\JYang17\Desktop\Task3\ModuleProfileEditTool\CustomControls\obj\Debug\CustomControls.g.resources
+C:\Users\JYang17\Desktop\Task3\ModuleProfileEditTool\CustomControls\obj\Debug\CustomControls.dll
+C:\Users\JYang17\Desktop\Task3\ModuleProfileEditTool\CustomControls\obj\Debug\CustomControls.pdb
+C:\Users\JYang17\Documents\Visual Studio 2013\Projects\Wpf validation\CustomControls\obj\Debug\ModuleProfileTool.CustomControls.csprojResolveAssemblyReference.cache
+C:\Users\JYang17\Documents\Visual Studio 2013\Projects\Wpf validation\CustomControls\obj\Debug\CustomControls_MarkupCompile.cache
+C:\Users\JYang17\Documents\Visual Studio 2013\Projects\Wpf validation\CustomControls\obj\Debug\CustomControls.dll
+C:\Users\JYang17\Documents\Visual Studio 2013\Projects\Wpf validation\CustomControls\obj\Debug\CustomControls.pdb

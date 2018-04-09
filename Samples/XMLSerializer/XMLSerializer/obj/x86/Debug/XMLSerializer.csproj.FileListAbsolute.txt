@@ -1,0 +1,21 @@
+E:\XML 序列化\XMLSerializer\XMLSerializer\bin\Debug\XMLSerializer.exe
+E:\XML 序列化\XMLSerializer\XMLSerializer\bin\Debug\XMLSerializer.pdb
+E:\XML 序列化\XMLSerializer\XMLSerializer\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\XML 序列化\XMLSerializer\XMLSerializer\obj\x86\Debug\XMLSerializer.exe
+E:\XML 序列化\XMLSerializer\XMLSerializer\obj\x86\Debug\XMLSerializer.pdb
+C:\Documents and Settings\Administrator\桌面\cnblogs文章\xml序列化\XMLSerializer\obj\x86\Debug\XMLSerializer.exe
+C:\Documents and Settings\Administrator\桌面\cnblogs文章\xml序列化\XMLSerializer\obj\x86\Debug\XMLSerializer.pdb
+C:\Documents and Settings\Administrator\桌面\cnblogs文章\xml序列化\XMLSerializer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\cnblogs文章\xml序列化\XMLSerializer\bin\Debug\XMLSerializer.exe
+C:\Documents and Settings\Administrator\桌面\cnblogs文章\xml序列化\XMLSerializer\bin\Debug\XMLSerializer.pdb
+C:\Users\JYang17\Desktop\XMLSerializer\XMLSerializer\obj\x86\Debug\XMLSerializer.exe
+C:\Users\JYang17\Desktop\XMLSerializer\XMLSerializer\obj\x86\Debug\XMLSerializer.pdb
+C:\Users\JYang17\Desktop\XMLSerializer\XMLSerializer\bin\Debug\XMLSerializer.exe
+C:\Users\JYang17\Desktop\XMLSerializer\XMLSerializer\bin\Debug\XMLSerializer.pdb
+C:\Users\JYang17\Desktop\XMLSerializer\XMLSerializer\obj\x86\Debug\XMLSerializer.csprojResolveAssemblyReference.cache
+C:\Users\JYang17\Documents\Visual Studio 2013\Projects\XMLSerializer\XMLSerializer\obj\x86\Debug\XMLSerializer.exe
+C:\Users\JYang17\Documents\Visual Studio 2013\Projects\XMLSerializer\XMLSerializer\obj\x86\Debug\XMLSerializer.pdb
+C:\Users\JYang17\Documents\Visual Studio 2013\Projects\XMLSerializer\XMLSerializer\obj\x86\Debug\XMLSerializer.csprojResolveAssemblyReference.cache
+C:\Users\JYang17\Documents\Visual Studio 2013\Projects\XMLSerializer\XMLSerializer\bin\Debug\XMLSerializer.exe
+C:\Users\JYang17\Documents\Visual Studio 2013\Projects\XMLSerializer\XMLSerializer\bin\Debug\XMLSerializer.pdb
+C:\Users\JYang17\Documents\Visual Studio 2013\Projects\XMLSerializer\XMLSerializer\obj\x86\Debug\XMLSerializer.csproj.CoreCompileInputs.cache

@@ -1,0 +1,6 @@
+c:\users\jyang17\documents\visual studio 2013\Projects\IEnumerable  test\IEnumerable  test\bin\Debug\IEnumerable  test.exe.config
+c:\users\jyang17\documents\visual studio 2013\Projects\IEnumerable  test\IEnumerable  test\bin\Debug\IEnumerable  test.exe
+c:\users\jyang17\documents\visual studio 2013\Projects\IEnumerable  test\IEnumerable  test\bin\Debug\IEnumerable  test.pdb
+c:\users\jyang17\documents\visual studio 2013\Projects\IEnumerable  test\IEnumerable  test\obj\Debug\IEnumerable  test.csprojResolveAssemblyReference.cache
+c:\users\jyang17\documents\visual studio 2013\Projects\IEnumerable  test\IEnumerable  test\obj\Debug\IEnumerable  test.exe
+c:\users\jyang17\documents\visual studio 2013\Projects\IEnumerable  test\IEnumerable  test\obj\Debug\IEnumerable  test.pdb

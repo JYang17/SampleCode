@@ -1,0 +1,15 @@
+c:\users\jyang17\documents\visual studio 2013\Projects\MyFirstVSShellIsolated\MyFirstVSPackage\bin\Debug\MyFirstVSPackage.dll
+c:\users\jyang17\documents\visual studio 2013\Projects\MyFirstVSShellIsolated\MyFirstVSPackage\bin\Debug\MyFirstVSPackage.pdb
+c:\users\jyang17\documents\visual studio 2013\Projects\MyFirstVSShellIsolated\MyFirstVSPackage\bin\Debug\MyFirstVSPackage.pkgdef
+c:\users\jyang17\documents\visual studio 2013\Projects\MyFirstVSShellIsolated\MyFirstVSPackage\bin\Debug\MyFirstVSPackage.vsix
+c:\users\jyang17\documents\visual studio 2013\Projects\MyFirstVSShellIsolated\MyFirstVSPackage\bin\Debug\extension.vsixmanifest
+c:\users\jyang17\documents\visual studio 2013\Projects\MyFirstVSShellIsolated\MyFirstVSPackage\obj\Debug\MyFirstVSPackage.csprojResolveAssemblyReference.cache
+c:\users\jyang17\documents\visual studio 2013\Projects\MyFirstVSShellIsolated\MyFirstVSPackage\obj\Debug\MyFirstVSPackage.csproj.ResolveComReference.cache
+c:\users\jyang17\documents\visual studio 2013\Projects\MyFirstVSShellIsolated\MyFirstVSPackage\obj\Debug\VSPackage.resources
+c:\users\jyang17\documents\visual studio 2013\Projects\MyFirstVSShellIsolated\MyFirstVSPackage\obj\Debug\Microsoft.MyFirstVSPackage.Resources.resources
+c:\users\jyang17\documents\visual studio 2013\Projects\MyFirstVSShellIsolated\MyFirstVSPackage\obj\Debug\MyFirstVSPackage.csproj.GenerateResource.Cache
+c:\users\jyang17\documents\visual studio 2013\Projects\MyFirstVSShellIsolated\MyFirstVSPackage\obj\Debug\MyFirstVSPackage.dll
+c:\users\jyang17\documents\visual studio 2013\Projects\MyFirstVSShellIsolated\MyFirstVSPackage\obj\Debug\MyFirstVSPackage.pdb
+c:\users\jyang17\documents\visual studio 2013\Projects\MyFirstVSShellIsolated\MyFirstVSPackage\obj\Debug\MyFirstVSPackage.pkgdef
+c:\users\jyang17\documents\visual studio 2013\Projects\MyFirstVSShellIsolated\MyFirstVSPackage\obj\Debug\MyFirstVSPackage.latest.pkgdef
+c:\users\jyang17\documents\visual studio 2013\Projects\MyFirstVSShellIsolated\MyFirstVSPackage\obj\Debug\extension.vsixmanifest

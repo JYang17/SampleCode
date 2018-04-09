@@ -1,0 +1,14 @@
+c:\users\jyang17\documents\visual studio 2013\Projects\Wpf validation old method\Wpf validation old method\bin\Debug\Wpf validation old method.exe.config
+c:\users\jyang17\documents\visual studio 2013\Projects\Wpf validation old method\Wpf validation old method\bin\Debug\Wpf validation old method.exe
+c:\users\jyang17\documents\visual studio 2013\Projects\Wpf validation old method\Wpf validation old method\bin\Debug\Wpf validation old method.pdb
+c:\users\jyang17\documents\visual studio 2013\Projects\Wpf validation old method\Wpf validation old method\obj\Debug\Wpf validation old method.csprojResolveAssemblyReference.cache
+c:\users\jyang17\documents\visual studio 2013\Projects\Wpf validation old method\Wpf validation old method\obj\Debug\MainWindow.baml
+c:\users\jyang17\documents\visual studio 2013\Projects\Wpf validation old method\Wpf validation old method\obj\Debug\MainWindow.g.cs
+c:\users\jyang17\documents\visual studio 2013\Projects\Wpf validation old method\Wpf validation old method\obj\Debug\App.g.cs
+c:\users\jyang17\documents\visual studio 2013\Projects\Wpf validation old method\Wpf validation old method\obj\Debug\Wpf validation old method_MarkupCompile.cache
+c:\users\jyang17\documents\visual studio 2013\Projects\Wpf validation old method\Wpf validation old method\obj\Debug\Wpf validation old method.g.resources
+c:\users\jyang17\documents\visual studio 2013\Projects\Wpf validation old method\Wpf validation old method\obj\Debug\Wpf_validation_old_method.Properties.Resources.resources
+c:\users\jyang17\documents\visual studio 2013\Projects\Wpf validation old method\Wpf validation old method\obj\Debug\Wpf validation old method.csproj.GenerateResource.Cache
+c:\users\jyang17\documents\visual studio 2013\Projects\Wpf validation old method\Wpf validation old method\obj\Debug\Wpf validation old method.exe
+c:\users\jyang17\documents\visual studio 2013\Projects\Wpf validation old method\Wpf validation old method\obj\Debug\Wpf validation old method.pdb
+C:\Users\JYang17\Documents\Visual Studio 2013\Projects\Wpf validation old method\Wpf validation old method\obj\Debug\App.baml

@@ -1,0 +1,6 @@
+c:\users\jyang17\documents\visual studio 2013\Projects\MultiThread_SingletonDemo\MultiThread_SingletonDemo\bin\Debug\MultiThread_SingletonDemo.exe.config
+c:\users\jyang17\documents\visual studio 2013\Projects\MultiThread_SingletonDemo\MultiThread_SingletonDemo\bin\Debug\MultiThread_SingletonDemo.exe
+c:\users\jyang17\documents\visual studio 2013\Projects\MultiThread_SingletonDemo\MultiThread_SingletonDemo\bin\Debug\MultiThread_SingletonDemo.pdb
+c:\users\jyang17\documents\visual studio 2013\Projects\MultiThread_SingletonDemo\MultiThread_SingletonDemo\obj\Debug\MultiThread_SingletonDemo.csprojResolveAssemblyReference.cache
+c:\users\jyang17\documents\visual studio 2013\Projects\MultiThread_SingletonDemo\MultiThread_SingletonDemo\obj\Debug\MultiThread_SingletonDemo.exe
+c:\users\jyang17\documents\visual studio 2013\Projects\MultiThread_SingletonDemo\MultiThread_SingletonDemo\obj\Debug\MultiThread_SingletonDemo.pdb

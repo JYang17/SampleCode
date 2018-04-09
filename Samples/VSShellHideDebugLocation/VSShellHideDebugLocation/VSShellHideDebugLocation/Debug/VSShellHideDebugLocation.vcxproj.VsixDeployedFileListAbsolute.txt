@@ -1,0 +1,10 @@
+c:\users\jyang17\documents\visual studio 2013\Projects\VSShellHideDebugLocation\Debug\\VSShellHideDebugLocation.exe.config
+c:\users\jyang17\documents\visual studio 2013\Projects\VSShellHideDebugLocation\Debug\\VSShellHideDebugLocation.winprf
+c:\users\jyang17\documents\visual studio 2013\Projects\VSShellHideDebugLocation\Debug\\VSShellHideDebugLocation.pkgundef
+c:\users\jyang17\documents\visual studio 2013\Projects\VSShellHideDebugLocation\Debug\\VSShellHideDebugLocation.pkgdef
+c:\users\jyang17\documents\visual studio 2013\Projects\VSShellHideDebugLocation\Debug\\ApplicationIcon.ico
+c:\users\jyang17\documents\visual studio 2013\Projects\VSShellHideDebugLocation\Debug\\Splash.bmp
+c:\users\jyang17\documents\visual studio 2013\Projects\VSShellHideDebugLocation\Debug\\DebuggerProxy.dll
+c:\users\jyang17\documents\visual studio 2013\Projects\VSShellHideDebugLocation\Debug\\DebuggerProxy.dll.manifest
+c:\users\jyang17\documents\visual studio 2013\Projects\VSShellHideDebugLocation\Debug\\Profiles\General.vssettings
+c:\users\jyang17\documents\visual studio 2013\Projects\VSShellHideDebugLocation\Debug\\Extensions\Application\VSShellHideDebugLocation.Application.pkgdef

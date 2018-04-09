@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>IdleTest.Xml</name>
+    </assembly>
+    <members>
+        <member name="F:IdleTest.Xml.BaseXmlTest.xmlBuilder">
+            <summary>
+            
+            </summary>
+        </member>
+    </members>
+</doc>

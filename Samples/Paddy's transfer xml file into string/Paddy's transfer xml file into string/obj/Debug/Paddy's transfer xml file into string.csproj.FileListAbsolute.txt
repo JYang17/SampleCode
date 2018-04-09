@@ -1,0 +1,6 @@
+c:\users\jyang17\documents\visual studio 2013\Projects\Paddy's transfer xml file into string\Paddy's transfer xml file into string\bin\Debug\Paddy's transfer xml file into string.exe.config
+c:\users\jyang17\documents\visual studio 2013\Projects\Paddy's transfer xml file into string\Paddy's transfer xml file into string\obj\Debug\Paddy's transfer xml file into string.csprojResolveAssemblyReference.cache
+c:\users\jyang17\documents\visual studio 2013\Projects\Paddy's transfer xml file into string\Paddy's transfer xml file into string\bin\Debug\Paddy's transfer xml file into string.exe
+c:\users\jyang17\documents\visual studio 2013\Projects\Paddy's transfer xml file into string\Paddy's transfer xml file into string\bin\Debug\Paddy's transfer xml file into string.pdb
+c:\users\jyang17\documents\visual studio 2013\Projects\Paddy's transfer xml file into string\Paddy's transfer xml file into string\obj\Debug\Paddy's transfer xml file into string.exe
+c:\users\jyang17\documents\visual studio 2013\Projects\Paddy's transfer xml file into string\Paddy's transfer xml file into string\obj\Debug\Paddy's transfer xml file into string.pdb

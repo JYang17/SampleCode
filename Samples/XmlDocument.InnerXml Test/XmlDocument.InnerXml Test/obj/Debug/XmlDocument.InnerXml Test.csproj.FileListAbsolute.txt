@@ -1,0 +1,6 @@
+c:\users\jyang17\documents\visual studio 2013\Projects\XmlDocument.InnerXml Test\XmlDocument.InnerXml Test\bin\Debug\XmlDocument.InnerXml Test.exe.config
+c:\users\jyang17\documents\visual studio 2013\Projects\XmlDocument.InnerXml Test\XmlDocument.InnerXml Test\bin\Debug\XmlDocument.InnerXml Test.exe
+c:\users\jyang17\documents\visual studio 2013\Projects\XmlDocument.InnerXml Test\XmlDocument.InnerXml Test\bin\Debug\XmlDocument.InnerXml Test.pdb
+c:\users\jyang17\documents\visual studio 2013\Projects\XmlDocument.InnerXml Test\XmlDocument.InnerXml Test\obj\Debug\XmlDocument.InnerXml Test.csprojResolveAssemblyReference.cache
+c:\users\jyang17\documents\visual studio 2013\Projects\XmlDocument.InnerXml Test\XmlDocument.InnerXml Test\obj\Debug\XmlDocument.InnerXml Test.exe
+c:\users\jyang17\documents\visual studio 2013\Projects\XmlDocument.InnerXml Test\XmlDocument.InnerXml Test\obj\Debug\XmlDocument.InnerXml Test.pdb

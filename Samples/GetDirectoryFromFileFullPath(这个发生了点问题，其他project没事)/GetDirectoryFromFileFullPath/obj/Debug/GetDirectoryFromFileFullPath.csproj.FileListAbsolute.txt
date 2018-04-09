@@ -1,0 +1,6 @@
+c:\users\jyang17\documents\visual studio 2013\Projects\GetDirectoryFromFileFullPath\GetDirectoryFromFileFullPath\bin\Debug\GetDirectoryFromFileFullPath.exe.config
+c:\users\jyang17\documents\visual studio 2013\Projects\GetDirectoryFromFileFullPath\GetDirectoryFromFileFullPath\bin\Debug\GetDirectoryFromFileFullPath.exe
+c:\users\jyang17\documents\visual studio 2013\Projects\GetDirectoryFromFileFullPath\GetDirectoryFromFileFullPath\bin\Debug\GetDirectoryFromFileFullPath.pdb
+c:\users\jyang17\documents\visual studio 2013\Projects\GetDirectoryFromFileFullPath\GetDirectoryFromFileFullPath\obj\Debug\GetDirectoryFromFileFullPath.csprojResolveAssemblyReference.cache
+c:\users\jyang17\documents\visual studio 2013\Projects\GetDirectoryFromFileFullPath\GetDirectoryFromFileFullPath\obj\Debug\GetDirectoryFromFileFullPath.exe
+c:\users\jyang17\documents\visual studio 2013\Projects\GetDirectoryFromFileFullPath\GetDirectoryFromFileFullPath\obj\Debug\GetDirectoryFromFileFullPath.pdb

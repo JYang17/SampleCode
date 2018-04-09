@@ -1,0 +1,15 @@
+﻿<Window x:Class="MEF_Example.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <DockPanel LastChildFill="True">
+            <StackPanel DockPanel.Dock="Top" >
+                <Button Content="Present Blue Control" Background="Blue" Click="Button_Click" Tag="1"/>
+                <Button Content="Present Green Control" Background="Green" Click="Button_Click" Tag="2"/>
+                <Button Content="Present Yellow Control" Background="Yellow" Click="Button_Click" Tag="3"/>
+            </StackPanel>
+            <ContentPresenter x:Name="Worksapce" />
+        </DockPanel>     
+    </Grid>
+</Window>

@@ -1,0 +1,6 @@
+c:\users\jyang17\documents\visual studio 2013\Projects\Directory.GetFiles test\Directory.GetFiles test\bin\Debug\Directory.GetFiles test.exe.config
+c:\users\jyang17\documents\visual studio 2013\Projects\Directory.GetFiles test\Directory.GetFiles test\bin\Debug\Directory.GetFiles test.exe
+c:\users\jyang17\documents\visual studio 2013\Projects\Directory.GetFiles test\Directory.GetFiles test\bin\Debug\Directory.GetFiles test.pdb
+c:\users\jyang17\documents\visual studio 2013\Projects\Directory.GetFiles test\Directory.GetFiles test\obj\Debug\Directory.GetFiles test.csprojResolveAssemblyReference.cache
+c:\users\jyang17\documents\visual studio 2013\Projects\Directory.GetFiles test\Directory.GetFiles test\obj\Debug\Directory.GetFiles test.exe
+c:\users\jyang17\documents\visual studio 2013\Projects\Directory.GetFiles test\Directory.GetFiles test\obj\Debug\Directory.GetFiles test.pdb

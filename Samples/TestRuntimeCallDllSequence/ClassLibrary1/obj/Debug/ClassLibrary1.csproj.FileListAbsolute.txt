@@ -1,0 +1,4 @@
+c:\users\jyang17\documents\visual studio 2013\Projects\TestRuntimeCallDllSequence\TestRuntimeCallDllSequence\bin\Debug\Packages\ClassLibrary1.dll
+c:\users\jyang17\documents\visual studio 2013\Projects\TestRuntimeCallDllSequence\TestRuntimeCallDllSequence\bin\Debug\Packages\ClassLibrary1.pdb
+c:\users\jyang17\documents\visual studio 2013\Projects\TestRuntimeCallDllSequence\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+c:\users\jyang17\documents\visual studio 2013\Projects\TestRuntimeCallDllSequence\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

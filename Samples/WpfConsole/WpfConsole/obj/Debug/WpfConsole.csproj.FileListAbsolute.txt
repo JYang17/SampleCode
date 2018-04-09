@@ -1,0 +1,12 @@
+C:\Users\JYang17\Desktop\WpfConsole\WpfConsole\bin\Debug\WpfConsole.exe
+C:\Users\JYang17\Desktop\WpfConsole\WpfConsole\bin\Debug\WpfConsole.pdb
+C:\Users\JYang17\Desktop\WpfConsole\WpfConsole\obj\Debug\WpfConsole.csprojResolveAssemblyReference.cache
+C:\Users\JYang17\Desktop\WpfConsole\WpfConsole\obj\Debug\Window1.baml
+C:\Users\JYang17\Desktop\WpfConsole\WpfConsole\obj\Debug\Window1.g.cs
+C:\Users\JYang17\Desktop\WpfConsole\WpfConsole\obj\Debug\App.g.cs
+C:\Users\JYang17\Desktop\WpfConsole\WpfConsole\obj\Debug\WpfConsole_MarkupCompile.cache
+C:\Users\JYang17\Desktop\WpfConsole\WpfConsole\obj\Debug\WpfConsole.g.resources
+C:\Users\JYang17\Desktop\WpfConsole\WpfConsole\obj\Debug\WpfConsole.Properties.Resources.resources
+C:\Users\JYang17\Desktop\WpfConsole\WpfConsole\obj\Debug\WpfConsole.csproj.GenerateResource.Cache
+C:\Users\JYang17\Desktop\WpfConsole\WpfConsole\obj\Debug\WpfConsole.exe
+C:\Users\JYang17\Desktop\WpfConsole\WpfConsole\obj\Debug\WpfConsole.pdb

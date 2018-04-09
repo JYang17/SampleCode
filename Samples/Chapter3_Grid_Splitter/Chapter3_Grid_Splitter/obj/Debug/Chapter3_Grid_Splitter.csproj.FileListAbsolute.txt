@@ -1,0 +1,13 @@
+c:\users\jyang17\documents\visual studio 2013\Projects\Chapter3_Grid_Splitter\Chapter3_Grid_Splitter\bin\Debug\Chapter3_Grid_Splitter.exe.config
+c:\users\jyang17\documents\visual studio 2013\Projects\Chapter3_Grid_Splitter\Chapter3_Grid_Splitter\bin\Debug\Chapter3_Grid_Splitter.exe
+c:\users\jyang17\documents\visual studio 2013\Projects\Chapter3_Grid_Splitter\Chapter3_Grid_Splitter\bin\Debug\Chapter3_Grid_Splitter.pdb
+c:\users\jyang17\documents\visual studio 2013\Projects\Chapter3_Grid_Splitter\Chapter3_Grid_Splitter\obj\Debug\Chapter3_Grid_Splitter.csprojResolveAssemblyReference.cache
+c:\users\jyang17\documents\visual studio 2013\Projects\Chapter3_Grid_Splitter\Chapter3_Grid_Splitter\obj\Debug\MainWindow.baml
+c:\users\jyang17\documents\visual studio 2013\Projects\Chapter3_Grid_Splitter\Chapter3_Grid_Splitter\obj\Debug\MainWindow.g.cs
+c:\users\jyang17\documents\visual studio 2013\Projects\Chapter3_Grid_Splitter\Chapter3_Grid_Splitter\obj\Debug\App.g.cs
+c:\users\jyang17\documents\visual studio 2013\Projects\Chapter3_Grid_Splitter\Chapter3_Grid_Splitter\obj\Debug\Chapter3_Grid_Splitter_MarkupCompile.cache
+c:\users\jyang17\documents\visual studio 2013\Projects\Chapter3_Grid_Splitter\Chapter3_Grid_Splitter\obj\Debug\Chapter3_Grid_Splitter.g.resources
+c:\users\jyang17\documents\visual studio 2013\Projects\Chapter3_Grid_Splitter\Chapter3_Grid_Splitter\obj\Debug\Chapter3_Grid_Splitter.Properties.Resources.resources
+c:\users\jyang17\documents\visual studio 2013\Projects\Chapter3_Grid_Splitter\Chapter3_Grid_Splitter\obj\Debug\Chapter3_Grid_Splitter.csproj.GenerateResource.Cache
+c:\users\jyang17\documents\visual studio 2013\Projects\Chapter3_Grid_Splitter\Chapter3_Grid_Splitter\obj\Debug\Chapter3_Grid_Splitter.exe
+c:\users\jyang17\documents\visual studio 2013\Projects\Chapter3_Grid_Splitter\Chapter3_Grid_Splitter\obj\Debug\Chapter3_Grid_Splitter.pdb

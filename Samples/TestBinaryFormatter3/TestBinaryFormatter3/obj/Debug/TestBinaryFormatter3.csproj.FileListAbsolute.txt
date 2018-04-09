@@ -1,0 +1,5 @@
+c:\users\jyang17\documents\visual studio 2013\Projects\TestBinaryFormatter3\TestBinaryFormatter3\bin\Debug\TestBinaryFormatter3.exe.config
+c:\users\jyang17\documents\visual studio 2013\Projects\TestBinaryFormatter3\TestBinaryFormatter3\bin\Debug\TestBinaryFormatter3.exe
+c:\users\jyang17\documents\visual studio 2013\Projects\TestBinaryFormatter3\TestBinaryFormatter3\bin\Debug\TestBinaryFormatter3.pdb
+c:\users\jyang17\documents\visual studio 2013\Projects\TestBinaryFormatter3\TestBinaryFormatter3\obj\Debug\TestBinaryFormatter3.exe
+c:\users\jyang17\documents\visual studio 2013\Projects\TestBinaryFormatter3\TestBinaryFormatter3\obj\Debug\TestBinaryFormatter3.pdb

@@ -1,0 +1,6 @@
+c:\users\jyang17\documents\visual studio 2013\Projects\InvokeMemberCallDll\InvokeMemberCallDll\bin\Debug\InvokeMemberCallDll.exe.config
+c:\users\jyang17\documents\visual studio 2013\Projects\InvokeMemberCallDll\InvokeMemberCallDll\bin\Debug\InvokeMemberCallDll.exe
+c:\users\jyang17\documents\visual studio 2013\Projects\InvokeMemberCallDll\InvokeMemberCallDll\bin\Debug\InvokeMemberCallDll.pdb
+c:\users\jyang17\documents\visual studio 2013\Projects\InvokeMemberCallDll\InvokeMemberCallDll\obj\Debug\InvokeMemberCallDll.csprojResolveAssemblyReference.cache
+c:\users\jyang17\documents\visual studio 2013\Projects\InvokeMemberCallDll\InvokeMemberCallDll\obj\Debug\InvokeMemberCallDll.exe
+c:\users\jyang17\documents\visual studio 2013\Projects\InvokeMemberCallDll\InvokeMemberCallDll\obj\Debug\InvokeMemberCallDll.pdb

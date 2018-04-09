@@ -1,0 +1,6 @@
+c:\users\jyang17\documents\visual studio 2013\Projects\SelectSingleNode_demo\SelectSingleNode_demo\bin\Debug\SelectSingleNode_demo.exe.config
+c:\users\jyang17\documents\visual studio 2013\Projects\SelectSingleNode_demo\SelectSingleNode_demo\bin\Debug\SelectSingleNode_demo.exe
+c:\users\jyang17\documents\visual studio 2013\Projects\SelectSingleNode_demo\SelectSingleNode_demo\bin\Debug\SelectSingleNode_demo.pdb
+c:\users\jyang17\documents\visual studio 2013\Projects\SelectSingleNode_demo\SelectSingleNode_demo\obj\Debug\SelectSingleNode_demo.csprojResolveAssemblyReference.cache
+c:\users\jyang17\documents\visual studio 2013\Projects\SelectSingleNode_demo\SelectSingleNode_demo\obj\Debug\SelectSingleNode_demo.exe
+c:\users\jyang17\documents\visual studio 2013\Projects\SelectSingleNode_demo\SelectSingleNode_demo\obj\Debug\SelectSingleNode_demo.pdb

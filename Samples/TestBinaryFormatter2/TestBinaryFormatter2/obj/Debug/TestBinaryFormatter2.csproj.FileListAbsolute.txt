@@ -1,0 +1,8 @@
+C:\Users\JYang17\Documents\Visual Studio 2013\Projects\TestBinaryFormatter2\TestBinaryFormatter2\bin\Debug\TestBinaryFormatter2.exe.config
+C:\Users\JYang17\Documents\Visual Studio 2013\Projects\TestBinaryFormatter2\TestBinaryFormatter2\bin\Debug\TestBinaryFormatter2.exe
+C:\Users\JYang17\Documents\Visual Studio 2013\Projects\TestBinaryFormatter2\TestBinaryFormatter2\bin\Debug\TestBinaryFormatter2.pdb
+C:\Users\JYang17\Documents\Visual Studio 2013\Projects\TestBinaryFormatter2\TestBinaryFormatter2\bin\Debug\ClassLibrary1.dll
+C:\Users\JYang17\Documents\Visual Studio 2013\Projects\TestBinaryFormatter2\TestBinaryFormatter2\bin\Debug\ClassLibrary1.pdb
+C:\Users\JYang17\Documents\Visual Studio 2013\Projects\TestBinaryFormatter2\TestBinaryFormatter2\obj\Debug\TestBinaryFormatter2.csprojResolveAssemblyReference.cache
+C:\Users\JYang17\Documents\Visual Studio 2013\Projects\TestBinaryFormatter2\TestBinaryFormatter2\obj\Debug\TestBinaryFormatter2.exe
+C:\Users\JYang17\Documents\Visual Studio 2013\Projects\TestBinaryFormatter2\TestBinaryFormatter2\obj\Debug\TestBinaryFormatter2.pdb

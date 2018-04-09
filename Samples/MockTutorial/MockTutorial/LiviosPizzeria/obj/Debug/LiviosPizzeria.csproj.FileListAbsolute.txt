@@ -1,0 +1,12 @@
+C:\Users\JYang17\Desktop\MockTutorial\MockTutorial\LiviosPizzeria\bin\Debug\LiviosPizzeria.dll
+C:\Users\JYang17\Desktop\MockTutorial\MockTutorial\LiviosPizzeria\bin\Debug\LiviosPizzeria.pdb
+C:\Users\JYang17\Desktop\MockTutorial\MockTutorial\LiviosPizzeria\obj\Debug\LiviosPizzeria.csprojResolveAssemblyReference.cache
+C:\Users\JYang17\Desktop\MockTutorial\MockTutorial\LiviosPizzeria\obj\Debug\LiviosPizzeria.dll
+C:\Users\JYang17\Desktop\MockTutorial\MockTutorial\LiviosPizzeria\obj\Debug\LiviosPizzeria.pdb
+C:\Users\JYang17\Documents\Visual Studio 2013\Projects\MockTutorial\MockTutorial\LiviosPizzeria\bin\Debug\LiviosPizzeria.dll
+C:\Users\JYang17\Documents\Visual Studio 2013\Projects\MockTutorial\MockTutorial\LiviosPizzeria\bin\Debug\LiviosPizzeria.pdb
+C:\Users\JYang17\Documents\Visual Studio 2013\Projects\MockTutorial\MockTutorial\LiviosPizzeria\bin\Debug\Rhino.Mocks.dll
+C:\Users\JYang17\Documents\Visual Studio 2013\Projects\MockTutorial\MockTutorial\LiviosPizzeria\bin\Debug\Rhino.Mocks.xml
+C:\Users\JYang17\Documents\Visual Studio 2013\Projects\MockTutorial\MockTutorial\LiviosPizzeria\obj\Debug\LiviosPizzeria.csprojResolveAssemblyReference.cache
+C:\Users\JYang17\Documents\Visual Studio 2013\Projects\MockTutorial\MockTutorial\LiviosPizzeria\obj\Debug\LiviosPizzeria.dll
+C:\Users\JYang17\Documents\Visual Studio 2013\Projects\MockTutorial\MockTutorial\LiviosPizzeria\obj\Debug\LiviosPizzeria.pdb

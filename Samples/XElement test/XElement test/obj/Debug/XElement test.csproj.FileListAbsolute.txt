@@ -1,0 +1,6 @@
+c:\users\jyang17\documents\visual studio 2013\Projects\XElement test\XElement test\bin\Debug\XElement test.exe.config
+c:\users\jyang17\documents\visual studio 2013\Projects\XElement test\XElement test\bin\Debug\XElement test.exe
+c:\users\jyang17\documents\visual studio 2013\Projects\XElement test\XElement test\bin\Debug\XElement test.pdb
+c:\users\jyang17\documents\visual studio 2013\Projects\XElement test\XElement test\obj\Debug\XElement test.csprojResolveAssemblyReference.cache
+c:\users\jyang17\documents\visual studio 2013\Projects\XElement test\XElement test\obj\Debug\XElement test.exe
+c:\users\jyang17\documents\visual studio 2013\Projects\XElement test\XElement test\obj\Debug\XElement test.pdb

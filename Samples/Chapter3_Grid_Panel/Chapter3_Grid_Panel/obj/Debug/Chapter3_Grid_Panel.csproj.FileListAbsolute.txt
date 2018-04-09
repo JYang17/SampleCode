@@ -1,0 +1,13 @@
+c:\users\jyang17\documents\visual studio 2013\Projects\Chapter3_Grid_Panel\Chapter3_Grid_Panel\bin\Debug\Chapter3_Grid_Panel.exe.config
+c:\users\jyang17\documents\visual studio 2013\Projects\Chapter3_Grid_Panel\Chapter3_Grid_Panel\bin\Debug\Chapter3_Grid_Panel.exe
+c:\users\jyang17\documents\visual studio 2013\Projects\Chapter3_Grid_Panel\Chapter3_Grid_Panel\bin\Debug\Chapter3_Grid_Panel.pdb
+c:\users\jyang17\documents\visual studio 2013\Projects\Chapter3_Grid_Panel\Chapter3_Grid_Panel\obj\Debug\Chapter3_Grid_Panel.csprojResolveAssemblyReference.cache
+c:\users\jyang17\documents\visual studio 2013\Projects\Chapter3_Grid_Panel\Chapter3_Grid_Panel\obj\Debug\MainWindow.baml
+c:\users\jyang17\documents\visual studio 2013\Projects\Chapter3_Grid_Panel\Chapter3_Grid_Panel\obj\Debug\MainWindow.g.cs
+c:\users\jyang17\documents\visual studio 2013\Projects\Chapter3_Grid_Panel\Chapter3_Grid_Panel\obj\Debug\App.g.cs
+c:\users\jyang17\documents\visual studio 2013\Projects\Chapter3_Grid_Panel\Chapter3_Grid_Panel\obj\Debug\Chapter3_Grid_Panel_MarkupCompile.cache
+c:\users\jyang17\documents\visual studio 2013\Projects\Chapter3_Grid_Panel\Chapter3_Grid_Panel\obj\Debug\Chapter3_Grid_Panel.g.resources
+c:\users\jyang17\documents\visual studio 2013\Projects\Chapter3_Grid_Panel\Chapter3_Grid_Panel\obj\Debug\Chapter3_Grid_Panel.Properties.Resources.resources
+c:\users\jyang17\documents\visual studio 2013\Projects\Chapter3_Grid_Panel\Chapter3_Grid_Panel\obj\Debug\Chapter3_Grid_Panel.csproj.GenerateResource.Cache
+c:\users\jyang17\documents\visual studio 2013\Projects\Chapter3_Grid_Panel\Chapter3_Grid_Panel\obj\Debug\Chapter3_Grid_Panel.exe
+c:\users\jyang17\documents\visual studio 2013\Projects\Chapter3_Grid_Panel\Chapter3_Grid_Panel\obj\Debug\Chapter3_Grid_Panel.pdb

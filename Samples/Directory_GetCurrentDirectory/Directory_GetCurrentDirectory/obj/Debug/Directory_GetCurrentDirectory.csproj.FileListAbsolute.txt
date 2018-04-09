@@ -1,0 +1,6 @@
+c:\users\jyang17\documents\visual studio 2013\Projects\Directory_GetCurrentDirectory\Directory_GetCurrentDirectory\bin\Debug\Directory_GetCurrentDirectory.exe.config
+c:\users\jyang17\documents\visual studio 2013\Projects\Directory_GetCurrentDirectory\Directory_GetCurrentDirectory\bin\Debug\Directory_GetCurrentDirectory.exe
+c:\users\jyang17\documents\visual studio 2013\Projects\Directory_GetCurrentDirectory\Directory_GetCurrentDirectory\bin\Debug\Directory_GetCurrentDirectory.pdb
+c:\users\jyang17\documents\visual studio 2013\Projects\Directory_GetCurrentDirectory\Directory_GetCurrentDirectory\obj\Debug\Directory_GetCurrentDirectory.csprojResolveAssemblyReference.cache
+c:\users\jyang17\documents\visual studio 2013\Projects\Directory_GetCurrentDirectory\Directory_GetCurrentDirectory\obj\Debug\Directory_GetCurrentDirectory.exe
+c:\users\jyang17\documents\visual studio 2013\Projects\Directory_GetCurrentDirectory\Directory_GetCurrentDirectory\obj\Debug\Directory_GetCurrentDirectory.pdb

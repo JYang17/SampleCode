@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
+  <Metadata>
+    <Identity Id="af74ffcc-f8d3-44cb-91e1-7b9007ad0806" Version="1.0" Language="en-US" Publisher="Microsoft" />
+    <DisplayName>Shell VSIX manifest</DisplayName>
+    <Description>Core extensions for MyFirstVSShellIsolated</Description>
+  </Metadata>
+  <Installation InstalledByMsi="true" SystemComponent="true">
+    <InstallationTarget Id="MyFirstVSShellIsolated" Version="[1.0]" />
+  </Installation>
+  <Dependencies>
+    <Dependency Id="Microsoft.Framework.NDP" DisplayName="Microsoft .NET Framework" d:Source="Manual" Version="[4.5,)" />
+  </Dependencies>
+  <Assets>
+    <Asset Type="Microsoft.VisualStudio.VsPackage" d:Source="Project" d:ProjectName="MyFirstVSShellIsolated.AboutBoxPackage" Path="|MyFirstVSShellIsolated.AboutBoxPackage;PkgdefProjectOutputGroup|" />
+    <Asset Type="Microsoft.VisualStudio.VsPackage" d:Source="Project" d:ProjectName="MenuCommandsPackage" Path="|MenuCommandsPackage;PkgdefProjectOutputGroup|" />
+    <Asset Type="Microsoft.VisualStudio.MefComponent" d:Source="Project" d:ProjectName="ShellEditorMargin" Path="|ShellEditorMargin|" />
+  </Assets>
+</PackageManifest>

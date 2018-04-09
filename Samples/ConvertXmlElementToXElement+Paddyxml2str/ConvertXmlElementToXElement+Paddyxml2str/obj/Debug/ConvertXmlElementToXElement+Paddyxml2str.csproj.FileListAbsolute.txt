@@ -1,0 +1,6 @@
+c:\users\jyang17\documents\visual studio 2013\Projects\ConvertXmlElementToXElement+Paddyxml2str\ConvertXmlElementToXElement+Paddyxml2str\bin\Debug\ConvertXmlElementToXElement+Paddyxml2str.exe.config
+c:\users\jyang17\documents\visual studio 2013\Projects\ConvertXmlElementToXElement+Paddyxml2str\ConvertXmlElementToXElement+Paddyxml2str\bin\Debug\ConvertXmlElementToXElement+Paddyxml2str.exe
+c:\users\jyang17\documents\visual studio 2013\Projects\ConvertXmlElementToXElement+Paddyxml2str\ConvertXmlElementToXElement+Paddyxml2str\bin\Debug\ConvertXmlElementToXElement+Paddyxml2str.pdb
+c:\users\jyang17\documents\visual studio 2013\Projects\ConvertXmlElementToXElement+Paddyxml2str\ConvertXmlElementToXElement+Paddyxml2str\obj\Debug\ConvertXmlElementToXElement+Paddyxml2str.csprojResolveAssemblyReference.cache
+c:\users\jyang17\documents\visual studio 2013\Projects\ConvertXmlElementToXElement+Paddyxml2str\ConvertXmlElementToXElement+Paddyxml2str\obj\Debug\ConvertXmlElementToXElement+Paddyxml2str.exe
+c:\users\jyang17\documents\visual studio 2013\Projects\ConvertXmlElementToXElement+Paddyxml2str\ConvertXmlElementToXElement+Paddyxml2str\obj\Debug\ConvertXmlElementToXElement+Paddyxml2str.pdb

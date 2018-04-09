@@ -1,0 +1,31 @@
+﻿<ResourceDictionary x:Class="ClassLibraryForCommonWPF.Common.ResourceDictionaryForWPF"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             >
+    <!--
+    <Style x:Key="TextBoxErrorToolTipStyle" >
+        <Style.Setters>
+            <Setter Property="Control.HorizontalAlignment" Value="Stretch"/>
+            <Setter Property="Control.VerticalAlignment" Value="Center"/>
+            <Setter Property="Control.Margin" Value="3,3"/>
+
+        </Style.Setters>
+        <Style.Triggers>
+            <MultiTrigger>
+                <MultiTrigger.Conditions>
+                    <Condition Property="Validation.HasError" Value="True" />
+                    <Condition Property="IsEnabled" Value="True" />
+                </MultiTrigger.Conditions>
+                <Setter Property="ToolTip"
+                                    Value="{Binding RelativeSource={RelativeSource Self},
+                                    Path=(Validation.Errors).CurrentItem.ErrorContent}"/>
+                <Setter Property="Validation.ErrorTemplate" 
+                        Value="{DynamicResource ValidationErrorTemplate}"/>
+            </MultiTrigger>
+        </Style.Triggers>
+
+    </Style>
+    -->
+</ResourceDictionary>

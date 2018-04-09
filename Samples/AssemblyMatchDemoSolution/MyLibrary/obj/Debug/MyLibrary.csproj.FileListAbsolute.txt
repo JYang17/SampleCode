@@ -1,0 +1,4 @@
+D:\temp\AssemblyMatchDemoSolution\MyLibrary\bin\Debug\MyLibrary.dll
+D:\temp\AssemblyMatchDemoSolution\MyLibrary\bin\Debug\MyLibrary.pdb
+D:\temp\AssemblyMatchDemoSolution\MyLibrary\obj\Debug\MyLibrary.dll
+D:\temp\AssemblyMatchDemoSolution\MyLibrary\obj\Debug\MyLibrary.pdb

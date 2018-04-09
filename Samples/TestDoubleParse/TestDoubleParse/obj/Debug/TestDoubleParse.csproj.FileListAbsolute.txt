@@ -1,0 +1,6 @@
+c:\users\jyang17\documents\visual studio 2013\Projects\TestDoubleParse\TestDoubleParse\bin\Debug\TestDoubleParse.exe.config
+c:\users\jyang17\documents\visual studio 2013\Projects\TestDoubleParse\TestDoubleParse\bin\Debug\TestDoubleParse.exe
+c:\users\jyang17\documents\visual studio 2013\Projects\TestDoubleParse\TestDoubleParse\bin\Debug\TestDoubleParse.pdb
+c:\users\jyang17\documents\visual studio 2013\Projects\TestDoubleParse\TestDoubleParse\obj\Debug\TestDoubleParse.csprojResolveAssemblyReference.cache
+c:\users\jyang17\documents\visual studio 2013\Projects\TestDoubleParse\TestDoubleParse\obj\Debug\TestDoubleParse.exe
+c:\users\jyang17\documents\visual studio 2013\Projects\TestDoubleParse\TestDoubleParse\obj\Debug\TestDoubleParse.pdb

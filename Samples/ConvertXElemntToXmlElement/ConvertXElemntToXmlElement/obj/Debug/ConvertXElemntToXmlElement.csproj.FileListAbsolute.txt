@@ -1,0 +1,6 @@
+c:\users\jyang17\documents\visual studio 2013\Projects\ConvertXElemntToXmlElement\ConvertXElemntToXmlElement\bin\Debug\ConvertXElemntToXmlElement.exe.config
+c:\users\jyang17\documents\visual studio 2013\Projects\ConvertXElemntToXmlElement\ConvertXElemntToXmlElement\bin\Debug\ConvertXElemntToXmlElement.exe
+c:\users\jyang17\documents\visual studio 2013\Projects\ConvertXElemntToXmlElement\ConvertXElemntToXmlElement\bin\Debug\ConvertXElemntToXmlElement.pdb
+c:\users\jyang17\documents\visual studio 2013\Projects\ConvertXElemntToXmlElement\ConvertXElemntToXmlElement\obj\Debug\ConvertXElemntToXmlElement.csprojResolveAssemblyReference.cache
+c:\users\jyang17\documents\visual studio 2013\Projects\ConvertXElemntToXmlElement\ConvertXElemntToXmlElement\obj\Debug\ConvertXElemntToXmlElement.exe
+c:\users\jyang17\documents\visual studio 2013\Projects\ConvertXElemntToXmlElement\ConvertXElemntToXmlElement\obj\Debug\ConvertXElemntToXmlElement.pdb

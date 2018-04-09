@@ -1,0 +1,5 @@
+c:\Users\JYang17\documents\visual studio 2013\Projects\Wpf1\WPFDataModel\bin\Debug\WPFDataModel.dll
+c:\Users\JYang17\documents\visual studio 2013\Projects\Wpf1\WPFDataModel\bin\Debug\WPFDataModel.pdb
+c:\Users\JYang17\documents\visual studio 2013\Projects\Wpf1\WPFDataModel\obj\Debug\WPFDataModel.csprojResolveAssemblyReference.cache
+c:\Users\JYang17\documents\visual studio 2013\Projects\Wpf1\WPFDataModel\obj\Debug\WPFDataModel.dll
+c:\Users\JYang17\documents\visual studio 2013\Projects\Wpf1\WPFDataModel\obj\Debug\WPFDataModel.pdb

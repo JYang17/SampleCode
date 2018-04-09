@@ -1,0 +1,6 @@
+c:\users\jyang17\documents\visual studio 2013\Projects\ConsoleApplication_lutixia\ConsoleApplication_lutixia\bin\Debug\ConsoleApplication_lutixia.exe.config
+c:\users\jyang17\documents\visual studio 2013\Projects\ConsoleApplication_lutixia\ConsoleApplication_lutixia\bin\Debug\ConsoleApplication_lutixia.exe
+c:\users\jyang17\documents\visual studio 2013\Projects\ConsoleApplication_lutixia\ConsoleApplication_lutixia\bin\Debug\ConsoleApplication_lutixia.pdb
+c:\users\jyang17\documents\visual studio 2013\Projects\ConsoleApplication_lutixia\ConsoleApplication_lutixia\obj\Debug\ConsoleApplication_lutixia.csprojResolveAssemblyReference.cache
+c:\users\jyang17\documents\visual studio 2013\Projects\ConsoleApplication_lutixia\ConsoleApplication_lutixia\obj\Debug\ConsoleApplication_lutixia.exe
+c:\users\jyang17\documents\visual studio 2013\Projects\ConsoleApplication_lutixia\ConsoleApplication_lutixia\obj\Debug\ConsoleApplication_lutixia.pdb

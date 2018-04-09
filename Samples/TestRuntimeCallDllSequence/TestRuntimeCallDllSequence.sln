@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestRuntimeCallDllSequence", "TestRuntimeCallDllSequence\TestRuntimeCallDllSequence.csproj", "{F8A0CF78-B375-428E-8EC0-A99AF063C694}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1", "ClassLibrary1\ClassLibrary1.csproj", "{1C9FA5B3-5F79-4C7C-8BCA-3DDDC2AD86B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8A0CF78-B375-428E-8EC0-A99AF063C694}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8A0CF78-B375-428E-8EC0-A99AF063C694}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8A0CF78-B375-428E-8EC0-A99AF063C694}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8A0CF78-B375-428E-8EC0-A99AF063C694}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C9FA5B3-5F79-4C7C-8BCA-3DDDC2AD86B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C9FA5B3-5F79-4C7C-8BCA-3DDDC2AD86B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C9FA5B3-5F79-4C7C-8BCA-3DDDC2AD86B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C9FA5B3-5F79-4C7C-8BCA-3DDDC2AD86B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

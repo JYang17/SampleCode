@@ -1,0 +1,17 @@
+C:\Users\JYang17\Desktop\MockTutorial\MockTutorial\LiviosPizzeria.Test\bin\Debug\LiviosPizzeria.Test.dll
+C:\Users\JYang17\Desktop\MockTutorial\MockTutorial\LiviosPizzeria.Test\bin\Debug\LiviosPizzeria.Test.pdb
+C:\Users\JYang17\Desktop\MockTutorial\MockTutorial\LiviosPizzeria.Test\bin\Debug\LiviosPizzeria.dll
+C:\Users\JYang17\Desktop\MockTutorial\MockTutorial\LiviosPizzeria.Test\bin\Debug\Rhino.Mocks.dll
+C:\Users\JYang17\Desktop\MockTutorial\MockTutorial\LiviosPizzeria.Test\bin\Debug\LiviosPizzeria.pdb
+C:\Users\JYang17\Desktop\MockTutorial\MockTutorial\LiviosPizzeria.Test\obj\Debug\LiviosPizzeria.Test.csprojResolveAssemblyReference.cache
+C:\Users\JYang17\Desktop\MockTutorial\MockTutorial\LiviosPizzeria.Test\obj\Debug\LiviosPizzeria.Test.dll
+C:\Users\JYang17\Desktop\MockTutorial\MockTutorial\LiviosPizzeria.Test\obj\Debug\LiviosPizzeria.Test.pdb
+C:\Users\JYang17\Documents\Visual Studio 2013\Projects\MockTutorial\MockTutorial\LiviosPizzeria.Test\bin\Debug\LiviosPizzeria.Test.dll
+C:\Users\JYang17\Documents\Visual Studio 2013\Projects\MockTutorial\MockTutorial\LiviosPizzeria.Test\bin\Debug\LiviosPizzeria.Test.pdb
+C:\Users\JYang17\Documents\Visual Studio 2013\Projects\MockTutorial\MockTutorial\LiviosPizzeria.Test\bin\Debug\LiviosPizzeria.dll
+C:\Users\JYang17\Documents\Visual Studio 2013\Projects\MockTutorial\MockTutorial\LiviosPizzeria.Test\bin\Debug\LiviosPizzeria.pdb
+C:\Users\JYang17\Documents\Visual Studio 2013\Projects\MockTutorial\MockTutorial\LiviosPizzeria.Test\obj\Debug\LiviosPizzeria.Test.csprojResolveAssemblyReference.cache
+C:\Users\JYang17\Documents\Visual Studio 2013\Projects\MockTutorial\MockTutorial\LiviosPizzeria.Test\obj\Debug\LiviosPizzeria.Test.dll
+C:\Users\JYang17\Documents\Visual Studio 2013\Projects\MockTutorial\MockTutorial\LiviosPizzeria.Test\obj\Debug\LiviosPizzeria.Test.pdb
+C:\Users\JYang17\Documents\Visual Studio 2013\Projects\MockTutorial\MockTutorial\LiviosPizzeria.Test\bin\Debug\Rhino.Mocks.dll
+C:\Users\JYang17\Documents\Visual Studio 2013\Projects\MockTutorial\MockTutorial\LiviosPizzeria.Test\bin\Debug\Rhino.Mocks.xml

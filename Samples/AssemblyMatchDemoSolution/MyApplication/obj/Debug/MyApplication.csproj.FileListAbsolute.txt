@@ -1,0 +1,12 @@
+D:\temp\AssemblyMatchDemoSolution\MyApplication\bin\Debug\MyApplication.exe.config
+D:\temp\AssemblyMatchDemoSolution\MyApplication\bin\Debug\MyApplication.exe
+D:\temp\AssemblyMatchDemoSolution\MyApplication\bin\Debug\MyApplication.pdb
+D:\temp\AssemblyMatchDemoSolution\MyApplication\obj\Debug\MyApplication.csprojResolveAssemblyReference.cache
+D:\temp\AssemblyMatchDemoSolution\MyApplication\obj\Debug\MyApplication.exe
+D:\temp\AssemblyMatchDemoSolution\MyApplication\obj\Debug\MyApplication.pdb
+D:\temp\AssemblyMatchDemoSolution\MyApplication\bin\Debug\MyLibrary.dll
+D:\temp\AssemblyMatchDemoSolution\MyApplication\bin\Debug\MyLibrary.pdb
+C:\Users\JYang17\Desktop\AssemblyMatchDemoSolution\MyApplication\bin\Debug\MyApplication.exe.config
+C:\Users\JYang17\Desktop\AssemblyMatchDemoSolution\MyApplication\obj\Debug\MyApplication.pdb
+C:\Users\JYang17\Desktop\self learning\AssemblyMatchDemoSolution\MyApplication\bin\Debug\MyApplication.exe.config
+C:\Users\JYang17\Desktop\self learning\AssemblyMatchDemoSolution\MyApplication\obj\Debug\MyApplication.pdb

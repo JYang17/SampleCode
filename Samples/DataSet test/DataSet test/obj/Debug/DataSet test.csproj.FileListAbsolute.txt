@@ -1,0 +1,6 @@
+c:\users\jyang17\documents\visual studio 2013\Projects\DataSet test\DataSet test\bin\Debug\DataSet test.exe.config
+c:\users\jyang17\documents\visual studio 2013\Projects\DataSet test\DataSet test\bin\Debug\DataSet test.exe
+c:\users\jyang17\documents\visual studio 2013\Projects\DataSet test\DataSet test\bin\Debug\DataSet test.pdb
+c:\users\jyang17\documents\visual studio 2013\Projects\DataSet test\DataSet test\obj\Debug\DataSet test.csprojResolveAssemblyReference.cache
+c:\users\jyang17\documents\visual studio 2013\Projects\DataSet test\DataSet test\obj\Debug\DataSet test.exe
+c:\users\jyang17\documents\visual studio 2013\Projects\DataSet test\DataSet test\obj\Debug\DataSet test.pdb

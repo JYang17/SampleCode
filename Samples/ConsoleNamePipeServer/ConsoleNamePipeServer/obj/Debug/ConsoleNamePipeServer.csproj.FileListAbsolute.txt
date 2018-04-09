@@ -1,0 +1,6 @@
+c:\users\jyang17\documents\visual studio 2013\Projects\ConsoleNamePipeServer\ConsoleNamePipeServer\bin\Debug\ConsoleNamePipeServer.exe.config
+c:\users\jyang17\documents\visual studio 2013\Projects\ConsoleNamePipeServer\ConsoleNamePipeServer\bin\Debug\ConsoleNamePipeServer.exe
+c:\users\jyang17\documents\visual studio 2013\Projects\ConsoleNamePipeServer\ConsoleNamePipeServer\bin\Debug\ConsoleNamePipeServer.pdb
+c:\users\jyang17\documents\visual studio 2013\Projects\ConsoleNamePipeServer\ConsoleNamePipeServer\obj\Debug\ConsoleNamePipeServer.csprojResolveAssemblyReference.cache
+c:\users\jyang17\documents\visual studio 2013\Projects\ConsoleNamePipeServer\ConsoleNamePipeServer\obj\Debug\ConsoleNamePipeServer.exe
+c:\users\jyang17\documents\visual studio 2013\Projects\ConsoleNamePipeServer\ConsoleNamePipeServer\obj\Debug\ConsoleNamePipeServer.pdb

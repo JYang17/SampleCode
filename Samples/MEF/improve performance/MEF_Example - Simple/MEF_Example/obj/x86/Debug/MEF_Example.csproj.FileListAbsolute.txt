@@ -1,0 +1,59 @@
+D:\D_Drive\JhonBriceCpp17.10.12\Code\MEF_Example\MEF_Example\bin\Debug\MEF_Example.exe
+D:\D_Drive\JhonBriceCpp17.10.12\Code\MEF_Example\MEF_Example\bin\Debug\MEF_Example.pdb
+D:\D_Drive\JhonBriceCpp17.10.12\Code\MEF_Example\MEF_Example\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\D_Drive\JhonBriceCpp17.10.12\Code\MEF_Example\MEF_Example\obj\x86\Debug\MainWindow.baml
+D:\D_Drive\JhonBriceCpp17.10.12\Code\MEF_Example\MEF_Example\obj\x86\Debug\MainWindow.g.cs
+D:\D_Drive\JhonBriceCpp17.10.12\Code\MEF_Example\MEF_Example\obj\x86\Debug\App.g.cs
+D:\D_Drive\JhonBriceCpp17.10.12\Code\MEF_Example\MEF_Example\obj\x86\Debug\MEF_Example_MarkupCompile.cache
+D:\D_Drive\JhonBriceCpp17.10.12\Code\MEF_Example\MEF_Example\obj\x86\Debug\MEF_Example.g.resources
+D:\D_Drive\JhonBriceCpp17.10.12\Code\MEF_Example\MEF_Example\obj\x86\Debug\MEF_Example.Properties.Resources.resources
+D:\D_Drive\JhonBriceCpp17.10.12\Code\MEF_Example\MEF_Example\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\D_Drive\JhonBriceCpp17.10.12\Code\MEF_Example\MEF_Example\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\D_Drive\JhonBriceCpp17.10.12\Code\MEF_Example\MEF_Example\obj\x86\Debug\MEF_Example.exe
+D:\D_Drive\JhonBriceCpp17.10.12\Code\MEF_Example\MEF_Example\obj\x86\Debug\MEF_Example.pdb
+D:\D_Drive\JhonBriceCpp17.10.12\Code\MEF_Example\MEF_Example\bin\Debug\IControl.dll
+D:\D_Drive\JhonBriceCpp17.10.12\Code\MEF_Example\MEF_Example\bin\Debug\IControl.pdb
+D:\D_Drive\JhonBriceCpp17.10.12\Code\MEF_Example - Using Interfaces\MEF_Example\obj\x86\Debug\MEF_Example.exe
+D:\D_Drive\JhonBriceCpp17.10.12\Code\MEF_Example - Using Interfaces\MEF_Example\obj\x86\Debug\MEF_Example.pdb
+D:\D_Drive\JhonBriceCpp17.10.12\Code\MEF_Example - Using Interfaces\MEF_Example\bin\Debug\MEF_Example.exe
+D:\D_Drive\JhonBriceCpp17.10.12\Code\MEF_Example - Using Interfaces\MEF_Example\bin\Debug\MEF_Example.pdb
+D:\D_Drive\JhonBriceCpp17.10.12\Code\MEF_Example - Using Interfaces\MEF_Example\bin\Debug\IControl.dll
+D:\D_Drive\JhonBriceCpp17.10.12\Code\MEF_Example - Using Interfaces\MEF_Example\bin\Debug\IControl.pdb
+D:\D_Drive\JhonBriceCpp17.10.12\Code\MEF_Example - Using Interfaces\MEF_Example\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\D_Drive\JhonBriceCpp17.10.12\Code\MEF_Example - Using Interfaces\MEF_Example\obj\x86\Debug\MainWindow.baml
+D:\D_Drive\JhonBriceCpp17.10.12\Code\MEF_Example - Using Interfaces\MEF_Example\obj\x86\Debug\MainWindow.g.cs
+D:\D_Drive\JhonBriceCpp17.10.12\Code\MEF_Example - Using Interfaces\MEF_Example\obj\x86\Debug\App.g.cs
+D:\D_Drive\JhonBriceCpp17.10.12\Code\MEF_Example - Using Interfaces\MEF_Example\obj\x86\Debug\MEF_Example_MarkupCompile.cache
+D:\D_Drive\JhonBriceCpp17.10.12\Code\MEF_Example - Using Interfaces\MEF_Example\obj\x86\Debug\MEF_Example.g.resources
+D:\D_Drive\JhonBriceCpp17.10.12\Code\MEF_Example - Using Interfaces\MEF_Example\obj\x86\Debug\MEF_Example.Properties.Resources.resources
+D:\D_Drive\JhonBriceCpp17.10.12\Code\MEF_Example - Using Interfaces\MEF_Example\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\D_Drive\JhonBriceCpp17.10.12\Code\MEF_Example - Using Interfaces\MEF_Example\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\D_Drive\JhonBriceCpp17.10.12\Code\MEF_Example - Simple\MEF_Example\obj\x86\Debug\MEF_Example.exe
+D:\D_Drive\JhonBriceCpp17.10.12\Code\MEF_Example - Simple\MEF_Example\obj\x86\Debug\MEF_Example.pdb
+D:\D_Drive\JhonBriceCpp17.10.12\Code\MEF_Example - Simple\MEF_Example\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\D_Drive\JhonBriceCpp17.10.12\Code\MEF_Example - Simple\MEF_Example\obj\x86\Debug\MainWindow.baml
+D:\D_Drive\JhonBriceCpp17.10.12\Code\MEF_Example - Simple\MEF_Example\obj\x86\Debug\MainWindow.g.cs
+D:\D_Drive\JhonBriceCpp17.10.12\Code\MEF_Example - Simple\MEF_Example\obj\x86\Debug\App.g.cs
+D:\D_Drive\JhonBriceCpp17.10.12\Code\MEF_Example - Simple\MEF_Example\obj\x86\Debug\MEF_Example_MarkupCompile.cache
+D:\D_Drive\JhonBriceCpp17.10.12\Code\MEF_Example - Simple\MEF_Example\obj\x86\Debug\MEF_Example.g.resources
+D:\D_Drive\JhonBriceCpp17.10.12\Code\MEF_Example - Simple\MEF_Example\obj\x86\Debug\MEF_Example.Properties.Resources.resources
+D:\D_Drive\JhonBriceCpp17.10.12\Code\MEF_Example - Simple\MEF_Example\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\D_Drive\JhonBriceCpp17.10.12\Code\MEF_Example - Simple\MEF_Example\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\D_Drive\JhonBriceCpp17.10.12\Code\MEF_Example - Simple\MEF_Example\bin\Debug\MEF_Example.exe
+D:\D_Drive\JhonBriceCpp17.10.12\Code\MEF_Example - Simple\MEF_Example\bin\Debug\MEF_Example.pdb
+D:\D_Drive\JhonBriceCpp17.10.12\Code\MEF_Example - Simple\MEF_Example\bin\Debug\IControl.dll
+D:\D_Drive\JhonBriceCpp17.10.12\Code\MEF_Example - Simple\MEF_Example\bin\Debug\IControl.pdb
+C:\Users\JYang17\Desktop\self learning\MEF\improve performance\MEF_Example - Simple\MEF_Example\bin\Debug\MEF_Example.exe
+C:\Users\JYang17\Desktop\self learning\MEF\improve performance\MEF_Example - Simple\MEF_Example\bin\Debug\MEF_Example.pdb
+C:\Users\JYang17\Desktop\self learning\MEF\improve performance\MEF_Example - Simple\MEF_Example\bin\Debug\IControl.dll
+C:\Users\JYang17\Desktop\self learning\MEF\improve performance\MEF_Example - Simple\MEF_Example\bin\Debug\IControl.pdb
+C:\Users\JYang17\Desktop\self learning\MEF\improve performance\MEF_Example - Simple\MEF_Example\obj\x86\Debug\MEF_Example.csprojResolveAssemblyReference.cache
+C:\Users\JYang17\Desktop\self learning\MEF\improve performance\MEF_Example - Simple\MEF_Example\obj\x86\Debug\MainWindow.baml
+C:\Users\JYang17\Desktop\self learning\MEF\improve performance\MEF_Example - Simple\MEF_Example\obj\x86\Debug\MainWindow.g.cs
+C:\Users\JYang17\Desktop\self learning\MEF\improve performance\MEF_Example - Simple\MEF_Example\obj\x86\Debug\App.g.cs
+C:\Users\JYang17\Desktop\self learning\MEF\improve performance\MEF_Example - Simple\MEF_Example\obj\x86\Debug\MEF_Example_MarkupCompile.cache
+C:\Users\JYang17\Desktop\self learning\MEF\improve performance\MEF_Example - Simple\MEF_Example\obj\x86\Debug\MEF_Example.g.resources
+C:\Users\JYang17\Desktop\self learning\MEF\improve performance\MEF_Example - Simple\MEF_Example\obj\x86\Debug\MEF_Example.Properties.Resources.resources
+C:\Users\JYang17\Desktop\self learning\MEF\improve performance\MEF_Example - Simple\MEF_Example\obj\x86\Debug\MEF_Example.csproj.GenerateResource.Cache
+C:\Users\JYang17\Desktop\self learning\MEF\improve performance\MEF_Example - Simple\MEF_Example\obj\x86\Debug\MEF_Example.exe
+C:\Users\JYang17\Desktop\self learning\MEF\improve performance\MEF_Example - Simple\MEF_Example\obj\x86\Debug\MEF_Example.pdb

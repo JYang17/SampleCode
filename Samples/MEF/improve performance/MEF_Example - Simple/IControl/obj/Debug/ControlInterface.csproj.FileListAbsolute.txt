@@ -1,0 +1,20 @@
+D:\D_Drive\JhonBriceCpp17.10.12\Code\MEF_Example\IControl\bin\Debug\IControl.dll
+D:\D_Drive\JhonBriceCpp17.10.12\Code\MEF_Example\IControl\bin\Debug\IControl.pdb
+D:\D_Drive\JhonBriceCpp17.10.12\Code\MEF_Example\IControl\obj\Debug\ResolveAssemblyReference.cache
+D:\D_Drive\JhonBriceCpp17.10.12\Code\MEF_Example\IControl\obj\Debug\IControl.dll
+D:\D_Drive\JhonBriceCpp17.10.12\Code\MEF_Example\IControl\obj\Debug\IControl.pdb
+D:\D_Drive\JhonBriceCpp17.10.12\Code\MEF_Example - Using Interfaces\IControl\bin\Debug\IControl.dll
+D:\D_Drive\JhonBriceCpp17.10.12\Code\MEF_Example - Using Interfaces\IControl\bin\Debug\IControl.pdb
+D:\D_Drive\JhonBriceCpp17.10.12\Code\MEF_Example - Using Interfaces\IControl\obj\Debug\ResolveAssemblyReference.cache
+D:\D_Drive\JhonBriceCpp17.10.12\Code\MEF_Example - Using Interfaces\IControl\obj\Debug\IControl.dll
+D:\D_Drive\JhonBriceCpp17.10.12\Code\MEF_Example - Using Interfaces\IControl\obj\Debug\IControl.pdb
+D:\D_Drive\JhonBriceCpp17.10.12\Code\MEF_Example - Simple\IControl\bin\Debug\IControl.dll
+D:\D_Drive\JhonBriceCpp17.10.12\Code\MEF_Example - Simple\IControl\bin\Debug\IControl.pdb
+D:\D_Drive\JhonBriceCpp17.10.12\Code\MEF_Example - Simple\IControl\obj\Debug\ResolveAssemblyReference.cache
+D:\D_Drive\JhonBriceCpp17.10.12\Code\MEF_Example - Simple\IControl\obj\Debug\IControl.dll
+D:\D_Drive\JhonBriceCpp17.10.12\Code\MEF_Example - Simple\IControl\obj\Debug\IControl.pdb
+C:\Users\JYang17\Desktop\self learning\MEF\improve performance\MEF_Example - Simple\IControl\bin\Debug\IControl.dll
+C:\Users\JYang17\Desktop\self learning\MEF\improve performance\MEF_Example - Simple\IControl\bin\Debug\IControl.pdb
+C:\Users\JYang17\Desktop\self learning\MEF\improve performance\MEF_Example - Simple\IControl\obj\Debug\ControlInterface.csprojResolveAssemblyReference.cache
+C:\Users\JYang17\Desktop\self learning\MEF\improve performance\MEF_Example - Simple\IControl\obj\Debug\IControl.dll
+C:\Users\JYang17\Desktop\self learning\MEF\improve performance\MEF_Example - Simple\IControl\obj\Debug\IControl.pdb

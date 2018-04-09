@@ -1,0 +1,5 @@
+D:\D_Drive\JhonBriceCpp17.10.12\Code\MEF_Example\IControl\obj\Debug\ResolveAssemblyReference.cache
+D:\D_Drive\JhonBriceCpp17.10.12\Code\MEF_Example\IControl\bin\Debug\IControl.dll
+D:\D_Drive\JhonBriceCpp17.10.12\Code\MEF_Example\IControl\bin\Debug\IControl.pdb
+D:\D_Drive\JhonBriceCpp17.10.12\Code\MEF_Example\IControl\obj\Debug\IControl.dll
+D:\D_Drive\JhonBriceCpp17.10.12\Code\MEF_Example\IControl\obj\Debug\IControl.pdb

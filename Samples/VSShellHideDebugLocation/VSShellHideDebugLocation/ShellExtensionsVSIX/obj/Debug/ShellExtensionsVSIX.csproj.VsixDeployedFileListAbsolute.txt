@@ -1,0 +1,4 @@
+c:\users\jyang17\documents\visual studio 2013\Projects\VSShellHideDebugLocation\Debug\Extensions\Application\\VSShellHideDebugLocation.AboutBoxPackage.dll
+c:\users\jyang17\documents\visual studio 2013\Projects\VSShellHideDebugLocation\Debug\Extensions\Application\\extension.vsixmanifest
+c:\users\jyang17\documents\visual studio 2013\Projects\VSShellHideDebugLocation\Debug\Extensions\Application\\VSShellHideDebugLocation.AboutBoxPackage.pkgdef
+c:\users\jyang17\documents\visual studio 2013\Projects\VSShellHideDebugLocation\Debug\Extensions\Application\\VSShellHideDebugLocation.AboutBoxPackage.pdb

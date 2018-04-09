@@ -1,0 +1,5 @@
+c:\users\jyang17\documents\visual studio 2013\Projects\ConsoleNamePipeClient\ConsoleNamePipeClient\bin\Debug\ConsoleNamePipeClient.exe.config
+c:\users\jyang17\documents\visual studio 2013\Projects\ConsoleNamePipeClient\ConsoleNamePipeClient\bin\Debug\ConsoleNamePipeClient.exe
+c:\users\jyang17\documents\visual studio 2013\Projects\ConsoleNamePipeClient\ConsoleNamePipeClient\bin\Debug\ConsoleNamePipeClient.pdb
+c:\users\jyang17\documents\visual studio 2013\Projects\ConsoleNamePipeClient\ConsoleNamePipeClient\obj\Debug\ConsoleNamePipeClient.exe
+c:\users\jyang17\documents\visual studio 2013\Projects\ConsoleNamePipeClient\ConsoleNamePipeClient\obj\Debug\ConsoleNamePipeClient.pdb

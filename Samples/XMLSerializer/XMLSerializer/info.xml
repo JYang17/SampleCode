@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<BaseInfo>
+  <Person>
+    <Name>J</Name>
+    <Age>16</Age>
+    <Books>
+      <Book>
+        <ISBN>123</ISBN>
+        <Title>Book1</Title>
+      </Book>
+    </Books>
+  </Person>
+  <Person>
+    <Name>Q</Name>
+    <Age>18</Age>
+    <Books>
+      <Book>
+        <ISBN>456</ISBN>
+        <Title>Book2</Title>
+      </Book>
+      <Book>
+        <ISBN>789</ISBN>
+        <Title>Book3</Title>
+      </Book>
+    </Books>
+  </Person>
+</BaseInfo>

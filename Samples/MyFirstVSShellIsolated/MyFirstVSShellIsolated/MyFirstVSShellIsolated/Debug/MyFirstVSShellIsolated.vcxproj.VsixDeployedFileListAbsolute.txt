@@ -1,0 +1,10 @@
+c:\users\jyang17\documents\visual studio 2013\Projects\MyFirstVSShellIsolated\Debug\\MyFirstVSShellIsolated.exe.config
+c:\users\jyang17\documents\visual studio 2013\Projects\MyFirstVSShellIsolated\Debug\\MyFirstVSShellIsolated.winprf
+c:\users\jyang17\documents\visual studio 2013\Projects\MyFirstVSShellIsolated\Debug\\MyFirstVSShellIsolated.pkgundef
+c:\users\jyang17\documents\visual studio 2013\Projects\MyFirstVSShellIsolated\Debug\\MyFirstVSShellIsolated.pkgdef
+c:\users\jyang17\documents\visual studio 2013\Projects\MyFirstVSShellIsolated\Debug\\ApplicationIcon.ico
+c:\users\jyang17\documents\visual studio 2013\Projects\MyFirstVSShellIsolated\Debug\\Splash.bmp
+c:\users\jyang17\documents\visual studio 2013\Projects\MyFirstVSShellIsolated\Debug\\DebuggerProxy.dll
+c:\users\jyang17\documents\visual studio 2013\Projects\MyFirstVSShellIsolated\Debug\\DebuggerProxy.dll.manifest
+c:\users\jyang17\documents\visual studio 2013\Projects\MyFirstVSShellIsolated\Debug\\Profiles\General.vssettings
+c:\users\jyang17\documents\visual studio 2013\Projects\MyFirstVSShellIsolated\Debug\\Extensions\Application\MyFirstVSShellIsolated.Application.pkgdef

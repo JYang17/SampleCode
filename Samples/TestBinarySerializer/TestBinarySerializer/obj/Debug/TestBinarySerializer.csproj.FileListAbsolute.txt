@@ -1,0 +1,6 @@
+C:\Users\JYang17\Documents\Visual Studio 2013\Projects\TestBinarySerializer\TestBinarySerializer\bin\Debug\TestBinarySerializer.exe.config
+C:\Users\JYang17\Documents\Visual Studio 2013\Projects\TestBinarySerializer\TestBinarySerializer\bin\Debug\TestBinarySerializer.exe
+C:\Users\JYang17\Documents\Visual Studio 2013\Projects\TestBinarySerializer\TestBinarySerializer\bin\Debug\TestBinarySerializer.pdb
+C:\Users\JYang17\Documents\Visual Studio 2013\Projects\TestBinarySerializer\TestBinarySerializer\obj\Debug\TestBinarySerializer.exe
+C:\Users\JYang17\Documents\Visual Studio 2013\Projects\TestBinarySerializer\TestBinarySerializer\obj\Debug\TestBinarySerializer.pdb
+C:\Users\JYang17\Documents\Visual Studio 2013\Projects\TestBinarySerializer\TestBinarySerializer\obj\Debug\TestBinarySerializer.csprojResolveAssemblyReference.cache

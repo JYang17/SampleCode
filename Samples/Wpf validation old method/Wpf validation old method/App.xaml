@@ -1,0 +1,34 @@
+﻿<Application x:Class="Wpf_validation_old_method.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+
+        
+        
+        <Style x:Key="TextBoxErrorToolTipStyle" TargetType="{x:Type Control}" >
+            <Style.Setters>
+                
+                <Setter Property="Control.HorizontalAlignment" Value="Stretch"/>
+                <Setter Property="Control.VerticalAlignment" Value="Center"/>
+            </Style.Setters>
+            <Style.Triggers>
+                <MultiTrigger>
+                    <MultiTrigger.Conditions>
+                        <Condition Property="Validation.HasError" Value="True" />
+                        <Condition Property="IsEnabled" Value="True" />
+                    </MultiTrigger.Conditions>
+                    <Setter Property="ToolTip"
+                                    Value="{Binding RelativeSource={RelativeSource Self},
+                                    Path=(Validation.Errors).CurrentItem.ErrorContent}"/>
+                    <Setter Property="Validation.ErrorTemplate" 
+                        Value="{DynamicResource ValidationErrorTemplate}"/>
+                </MultiTrigger>
+            </Style.Triggers>
+        </Style>
+
+
+        
+        
+    </Application.Resources>
+</Application>

@@ -1,0 +1,4 @@
+C:\Users\JYang17\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Fabrikam\MenuCommandsPackage\1.0\\MenuCommandsPackage.dll
+C:\Users\JYang17\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Fabrikam\MenuCommandsPackage\1.0\\MenuCommandsPackage.pkgdef
+C:\Users\JYang17\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Fabrikam\MenuCommandsPackage\1.0\\extension.vsixmanifest
+C:\Users\JYang17\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Fabrikam\MenuCommandsPackage\1.0\\MenuCommandsPackage.pdb

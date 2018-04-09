@@ -1,0 +1,6 @@
+c:\users\jyang17\documents\visual studio 2013\Projects\string test\string test\bin\Debug\string test.exe.config
+c:\users\jyang17\documents\visual studio 2013\Projects\string test\string test\bin\Debug\string test.exe
+c:\users\jyang17\documents\visual studio 2013\Projects\string test\string test\bin\Debug\string test.pdb
+c:\users\jyang17\documents\visual studio 2013\Projects\string test\string test\obj\Debug\string test.csprojResolveAssemblyReference.cache
+c:\users\jyang17\documents\visual studio 2013\Projects\string test\string test\obj\Debug\string test.exe
+c:\users\jyang17\documents\visual studio 2013\Projects\string test\string test\obj\Debug\string test.pdb

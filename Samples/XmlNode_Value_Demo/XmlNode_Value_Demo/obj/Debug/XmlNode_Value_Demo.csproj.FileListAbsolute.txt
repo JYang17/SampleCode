@@ -1,0 +1,6 @@
+c:\users\jyang17\documents\visual studio 2013\Projects\XmlNode_Value_Demo\XmlNode_Value_Demo\bin\Debug\XmlNode_Value_Demo.exe.config
+c:\users\jyang17\documents\visual studio 2013\Projects\XmlNode_Value_Demo\XmlNode_Value_Demo\bin\Debug\XmlNode_Value_Demo.exe
+c:\users\jyang17\documents\visual studio 2013\Projects\XmlNode_Value_Demo\XmlNode_Value_Demo\bin\Debug\XmlNode_Value_Demo.pdb
+c:\users\jyang17\documents\visual studio 2013\Projects\XmlNode_Value_Demo\XmlNode_Value_Demo\obj\Debug\XmlNode_Value_Demo.csprojResolveAssemblyReference.cache
+c:\users\jyang17\documents\visual studio 2013\Projects\XmlNode_Value_Demo\XmlNode_Value_Demo\obj\Debug\XmlNode_Value_Demo.exe
+c:\users\jyang17\documents\visual studio 2013\Projects\XmlNode_Value_Demo\XmlNode_Value_Demo\obj\Debug\XmlNode_Value_Demo.pdb

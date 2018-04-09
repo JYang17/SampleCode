@@ -1,0 +1,8 @@
+c:\users\jyang17\documents\visual studio 2013\Projects\TestRuntimeCallDllSequence\TestRuntimeCallDllSequence\bin\Debug\TestRuntimeCallDllSequence.exe.config
+c:\users\jyang17\documents\visual studio 2013\Projects\TestRuntimeCallDllSequence\TestRuntimeCallDllSequence\bin\Debug\TestRuntimeCallDllSequence.exe
+c:\users\jyang17\documents\visual studio 2013\Projects\TestRuntimeCallDllSequence\TestRuntimeCallDllSequence\bin\Debug\TestRuntimeCallDllSequence.pdb
+c:\users\jyang17\documents\visual studio 2013\Projects\TestRuntimeCallDllSequence\TestRuntimeCallDllSequence\obj\Debug\TestRuntimeCallDllSequence.csprojResolveAssemblyReference.cache
+c:\users\jyang17\documents\visual studio 2013\Projects\TestRuntimeCallDllSequence\TestRuntimeCallDllSequence\obj\Debug\TestRuntimeCallDllSequence.exe
+c:\users\jyang17\documents\visual studio 2013\Projects\TestRuntimeCallDllSequence\TestRuntimeCallDllSequence\obj\Debug\TestRuntimeCallDllSequence.pdb
+c:\users\jyang17\documents\visual studio 2013\Projects\TestRuntimeCallDllSequence\TestRuntimeCallDllSequence\bin\Debug\ClassLibrary1.dll
+c:\users\jyang17\documents\visual studio 2013\Projects\TestRuntimeCallDllSequence\TestRuntimeCallDllSequence\bin\Debug\ClassLibrary1.pdb

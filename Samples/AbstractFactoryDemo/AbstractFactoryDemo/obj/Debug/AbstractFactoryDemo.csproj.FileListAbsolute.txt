@@ -1,0 +1,6 @@
+c:\users\jyang17\documents\visual studio 2013\Projects\AbstractFactoryDemo\AbstractFactoryDemo\bin\Debug\AbstractFactoryDemo.exe.config
+c:\users\jyang17\documents\visual studio 2013\Projects\AbstractFactoryDemo\AbstractFactoryDemo\bin\Debug\AbstractFactoryDemo.exe
+c:\users\jyang17\documents\visual studio 2013\Projects\AbstractFactoryDemo\AbstractFactoryDemo\bin\Debug\AbstractFactoryDemo.pdb
+c:\users\jyang17\documents\visual studio 2013\Projects\AbstractFactoryDemo\AbstractFactoryDemo\obj\Debug\AbstractFactoryDemo.csprojResolveAssemblyReference.cache
+c:\users\jyang17\documents\visual studio 2013\Projects\AbstractFactoryDemo\AbstractFactoryDemo\obj\Debug\AbstractFactoryDemo.exe
+c:\users\jyang17\documents\visual studio 2013\Projects\AbstractFactoryDemo\AbstractFactoryDemo\obj\Debug\AbstractFactoryDemo.pdb

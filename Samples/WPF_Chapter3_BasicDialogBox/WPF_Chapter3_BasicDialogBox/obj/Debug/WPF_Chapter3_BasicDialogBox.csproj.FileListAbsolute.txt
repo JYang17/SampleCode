@@ -1,0 +1,13 @@
+c:\users\jyang17\documents\visual studio 2013\Projects\WPF_Chapter3_BasicDialogBox\WPF_Chapter3_BasicDialogBox\bin\Debug\WPF_Chapter3_BasicDialogBox.exe.config
+c:\users\jyang17\documents\visual studio 2013\Projects\WPF_Chapter3_BasicDialogBox\WPF_Chapter3_BasicDialogBox\bin\Debug\WPF_Chapter3_BasicDialogBox.exe
+c:\users\jyang17\documents\visual studio 2013\Projects\WPF_Chapter3_BasicDialogBox\WPF_Chapter3_BasicDialogBox\bin\Debug\WPF_Chapter3_BasicDialogBox.pdb
+c:\users\jyang17\documents\visual studio 2013\Projects\WPF_Chapter3_BasicDialogBox\WPF_Chapter3_BasicDialogBox\obj\Debug\WPF_Chapter3_BasicDialogBox.csprojResolveAssemblyReference.cache
+c:\users\jyang17\documents\visual studio 2013\Projects\WPF_Chapter3_BasicDialogBox\WPF_Chapter3_BasicDialogBox\obj\Debug\MainWindow.baml
+c:\users\jyang17\documents\visual studio 2013\Projects\WPF_Chapter3_BasicDialogBox\WPF_Chapter3_BasicDialogBox\obj\Debug\MainWindow.g.cs
+c:\users\jyang17\documents\visual studio 2013\Projects\WPF_Chapter3_BasicDialogBox\WPF_Chapter3_BasicDialogBox\obj\Debug\App.g.cs
+c:\users\jyang17\documents\visual studio 2013\Projects\WPF_Chapter3_BasicDialogBox\WPF_Chapter3_BasicDialogBox\obj\Debug\WPF_Chapter3_BasicDialogBox_MarkupCompile.cache
+c:\users\jyang17\documents\visual studio 2013\Projects\WPF_Chapter3_BasicDialogBox\WPF_Chapter3_BasicDialogBox\obj\Debug\WPF_Chapter3_BasicDialogBox.g.resources
+c:\users\jyang17\documents\visual studio 2013\Projects\WPF_Chapter3_BasicDialogBox\WPF_Chapter3_BasicDialogBox\obj\Debug\WPF_Chapter3_BasicDialogBox.Properties.Resources.resources
+c:\users\jyang17\documents\visual studio 2013\Projects\WPF_Chapter3_BasicDialogBox\WPF_Chapter3_BasicDialogBox\obj\Debug\WPF_Chapter3_BasicDialogBox.csproj.GenerateResource.Cache
+c:\users\jyang17\documents\visual studio 2013\Projects\WPF_Chapter3_BasicDialogBox\WPF_Chapter3_BasicDialogBox\obj\Debug\WPF_Chapter3_BasicDialogBox.exe
+c:\users\jyang17\documents\visual studio 2013\Projects\WPF_Chapter3_BasicDialogBox\WPF_Chapter3_BasicDialogBox\obj\Debug\WPF_Chapter3_BasicDialogBox.pdb

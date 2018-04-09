@@ -1,0 +1,6 @@
+c:\users\jyang17\documents\visual studio 2013\Projects\CSharp_Varient_Initialize\CSharp_Varient_Initialize\bin\Debug\CSharp_Varient_Initialize.exe.config
+c:\users\jyang17\documents\visual studio 2013\Projects\CSharp_Varient_Initialize\CSharp_Varient_Initialize\obj\Debug\CSharp_Varient_Initialize.csprojResolveAssemblyReference.cache
+c:\users\jyang17\documents\visual studio 2013\Projects\CSharp_Varient_Initialize\CSharp_Varient_Initialize\bin\Debug\CSharp_Varient_Initialize.exe
+c:\users\jyang17\documents\visual studio 2013\Projects\CSharp_Varient_Initialize\CSharp_Varient_Initialize\bin\Debug\CSharp_Varient_Initialize.pdb
+c:\users\jyang17\documents\visual studio 2013\Projects\CSharp_Varient_Initialize\CSharp_Varient_Initialize\obj\Debug\CSharp_Varient_Initialize.exe
+c:\users\jyang17\documents\visual studio 2013\Projects\CSharp_Varient_Initialize\CSharp_Varient_Initialize\obj\Debug\CSharp_Varient_Initialize.pdb

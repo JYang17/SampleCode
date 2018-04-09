@@ -1,0 +1,6 @@
+c:\users\jyang17\documents\visual studio 2013\Projects\UseXmlWriter\UseXmlWriter\bin\Debug\UseXmlWriter.exe.config
+c:\users\jyang17\documents\visual studio 2013\Projects\UseXmlWriter\UseXmlWriter\bin\Debug\UseXmlWriter.exe
+c:\users\jyang17\documents\visual studio 2013\Projects\UseXmlWriter\UseXmlWriter\bin\Debug\UseXmlWriter.pdb
+c:\users\jyang17\documents\visual studio 2013\Projects\UseXmlWriter\UseXmlWriter\obj\Debug\UseXmlWriter.csprojResolveAssemblyReference.cache
+c:\users\jyang17\documents\visual studio 2013\Projects\UseXmlWriter\UseXmlWriter\obj\Debug\UseXmlWriter.exe
+c:\users\jyang17\documents\visual studio 2013\Projects\UseXmlWriter\UseXmlWriter\obj\Debug\UseXmlWriter.pdb

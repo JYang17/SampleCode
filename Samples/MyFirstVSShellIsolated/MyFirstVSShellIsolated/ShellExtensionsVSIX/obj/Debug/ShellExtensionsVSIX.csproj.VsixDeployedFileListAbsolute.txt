@@ -1,0 +1,9 @@
+c:\users\jyang17\documents\visual studio 2013\Projects\MyFirstVSShellIsolated\Debug\Extensions\Application\\MyFirstVSShellIsolated.AboutBoxPackage.dll
+c:\users\jyang17\documents\visual studio 2013\Projects\MyFirstVSShellIsolated\Debug\Extensions\Application\\extension.vsixmanifest
+c:\users\jyang17\documents\visual studio 2013\Projects\MyFirstVSShellIsolated\Debug\Extensions\Application\\MyFirstVSShellIsolated.AboutBoxPackage.pkgdef
+c:\users\jyang17\documents\visual studio 2013\Projects\MyFirstVSShellIsolated\Debug\Extensions\Application\\MyFirstVSShellIsolated.AboutBoxPackage.pdb
+c:\users\jyang17\documents\visual studio 2013\Projects\MyFirstVSShellIsolated\Debug\Extensions\Application\\MenuCommandsPackage.dll
+c:\users\jyang17\documents\visual studio 2013\Projects\MyFirstVSShellIsolated\Debug\Extensions\Application\\MenuCommandsPackage.pkgdef
+c:\users\jyang17\documents\visual studio 2013\Projects\MyFirstVSShellIsolated\Debug\Extensions\Application\\MenuCommandsPackage.pdb
+C:\Users\JYang17\Documents\Visual Studio 2013\Projects\MyFirstVSShellIsolated\Debug\Extensions\Application\\ShellEditorMargin.dll
+C:\Users\JYang17\Documents\Visual Studio 2013\Projects\MyFirstVSShellIsolated\Debug\Extensions\Application\\ShellEditorMargin.pdb

@@ -1,0 +1,5 @@
+c:\users\jyang17\documents\visual studio 2013\Projects\InvokeMemberTest\InvokeMemberTest\bin\Debug\InvokeMemberTest.dll
+c:\users\jyang17\documents\visual studio 2013\Projects\InvokeMemberTest\InvokeMemberTest\bin\Debug\InvokeMemberTest.pdb
+c:\users\jyang17\documents\visual studio 2013\Projects\InvokeMemberTest\InvokeMemberTest\obj\Debug\InvokeMemberTest.csprojResolveAssemblyReference.cache
+c:\users\jyang17\documents\visual studio 2013\Projects\InvokeMemberTest\InvokeMemberTest\obj\Debug\InvokeMemberTest.dll
+c:\users\jyang17\documents\visual studio 2013\Projects\InvokeMemberTest\InvokeMemberTest\obj\Debug\InvokeMemberTest.pdb

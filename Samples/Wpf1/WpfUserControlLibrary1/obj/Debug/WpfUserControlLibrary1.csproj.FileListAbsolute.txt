@@ -1,0 +1,10 @@
+c:\Users\JYang17\documents\visual studio 2013\Projects\Wpf1\WpfUserControlLibrary1\bin\Debug\WpfUserControlLibrary1.dll
+c:\Users\JYang17\documents\visual studio 2013\Projects\Wpf1\WpfUserControlLibrary1\bin\Debug\WpfUserControlLibrary1.pdb
+c:\Users\JYang17\documents\visual studio 2013\Projects\Wpf1\WpfUserControlLibrary1\obj\Debug\UserControl1.baml
+c:\Users\JYang17\documents\visual studio 2013\Projects\Wpf1\WpfUserControlLibrary1\obj\Debug\UserControl1.g.cs
+c:\Users\JYang17\documents\visual studio 2013\Projects\Wpf1\WpfUserControlLibrary1\obj\Debug\WpfUserControlLibrary1_MarkupCompile.cache
+c:\Users\JYang17\documents\visual studio 2013\Projects\Wpf1\WpfUserControlLibrary1\obj\Debug\WpfUserControlLibrary1.g.resources
+c:\Users\JYang17\documents\visual studio 2013\Projects\Wpf1\WpfUserControlLibrary1\obj\Debug\WpfUserControlLibrary1.Properties.Resources.resources
+c:\Users\JYang17\documents\visual studio 2013\Projects\Wpf1\WpfUserControlLibrary1\obj\Debug\WpfUserControlLibrary1.csproj.GenerateResource.Cache
+c:\Users\JYang17\documents\visual studio 2013\Projects\Wpf1\WpfUserControlLibrary1\obj\Debug\WpfUserControlLibrary1.dll
+c:\Users\JYang17\documents\visual studio 2013\Projects\Wpf1\WpfUserControlLibrary1\obj\Debug\WpfUserControlLibrary1.pdb

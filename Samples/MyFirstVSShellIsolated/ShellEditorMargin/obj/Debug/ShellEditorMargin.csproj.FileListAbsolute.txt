@@ -1,0 +1,8 @@
+C:\Users\JYang17\Documents\Visual Studio 2013\Projects\MyFirstVSShellIsolated\ShellEditorMargin\bin\Debug\ShellEditorMargin.dll
+C:\Users\JYang17\Documents\Visual Studio 2013\Projects\MyFirstVSShellIsolated\ShellEditorMargin\bin\Debug\ShellEditorMargin.pdb
+C:\Users\JYang17\Documents\Visual Studio 2013\Projects\MyFirstVSShellIsolated\ShellEditorMargin\bin\Debug\ShellEditorMargin.vsix
+C:\Users\JYang17\Documents\Visual Studio 2013\Projects\MyFirstVSShellIsolated\ShellEditorMargin\bin\Debug\extension.vsixmanifest
+C:\Users\JYang17\Documents\Visual Studio 2013\Projects\MyFirstVSShellIsolated\ShellEditorMargin\obj\Debug\ShellEditorMargin.csprojResolveAssemblyReference.cache
+C:\Users\JYang17\Documents\Visual Studio 2013\Projects\MyFirstVSShellIsolated\ShellEditorMargin\obj\Debug\ShellEditorMargin.dll
+C:\Users\JYang17\Documents\Visual Studio 2013\Projects\MyFirstVSShellIsolated\ShellEditorMargin\obj\Debug\ShellEditorMargin.pdb
+C:\Users\JYang17\Documents\Visual Studio 2013\Projects\MyFirstVSShellIsolated\ShellEditorMargin\obj\Debug\extension.vsixmanifest
