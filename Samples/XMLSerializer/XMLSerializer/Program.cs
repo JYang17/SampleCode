@@ -19,8 +19,8 @@ namespace XMLSerializer
         public static void xmlDeserialize()
         {
             //xml来源可能是外部文件，也可能是从其他系统获得
-            //FileStream file = new FileStream(@"../../info.xml", FileMode.Open, FileAccess.Read);
-            FileStream file = new FileStream(@"C:\testXml2.xml", FileMode.Open, FileAccess.Read);
+            FileStream file = new FileStream(@"../../info.xml", FileMode.Open, FileAccess.Read);
+            //FileStream file = new FileStream(@"C:\testXml2.xml", FileMode.Open, FileAccess.Read);
             XmlSerializer xmlSearializer = new XmlSerializer(typeof(BaseInfo));
             BaseInfo info = (BaseInfo)xmlSearializer.Deserialize(file);
             file.Close();
